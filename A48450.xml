@@ -1,0 +1,2491 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royal presence, or, Gods tabernacle with men in a farewell sermon preached the 17. of August 1662. at Beere Regis in the county of Dorset; by that painfull and faithfull minister of the Gospel of Jesus Christ. Mr. Philip Lambe. And committed to publick view, for the instruction, support, and comfort of others.</title>
+            <author>Lamb, Philip, d. 1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 120 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48450</idno>
+            <idno type="STC">Wing L207A</idno>
+            <idno type="STC">ESTC R217569</idno>
+            <idno type="EEBO-CITATION">99829230</idno>
+            <idno type="PROQUEST">99829230</idno>
+            <idno type="VID">33666</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48450)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33666)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1991:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royal presence, or, Gods tabernacle with men in a farewell sermon preached the 17. of August 1662. at Beere Regis in the county of Dorset; by that painfull and faithfull minister of the Gospel of Jesus Christ. Mr. Philip Lambe. And committed to publick view, for the instruction, support, and comfort of others.</title>
+                  <author>Lamb, Philip, d. 1689.</author>
+               </titleStmt>
+               <extent>[46] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-F⁴ (-F4, blank?).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33666:1" rendition="simple:additions"/>
+            <p>The Royal Preſence, OR, GODS Tabernacle with MEN: IN A FAREWELL
+SERMON Prea<g ref="char:EOLhyphen"/>ched the 17. of <hi>August</hi> 1662. at <hi>Beere Regis</hi> in
+the County of <hi>Dorſet;</hi> By that painfull and faithfull Miniſter of
+the Goſpel of JESUS CHRIST.</p>
+            <p>Mr. <hi>PHILIP LAMBE.</hi>
+            </p>
+            <p>And committed to publick view, for the Inſtructi<g ref="char:EOLhyphen"/>on, Support,
+and comfort of others.</p>
+            <q>
+               <bibl>Iſa. 30.20.</bibl> 
+               <p>Though the Lord give you the bread of adverſity, and the water
+of affliction, yet ſhall not thy Teachers be remo<g ref="char:EOLhyphen"/>ved into a corner <hi>any
+more,</hi> but thine eyes ſhall ſee thy Tea<g ref="char:EOLhyphen"/>chers.</p>
+            </q>
+            <q>
+               <bibl>John 10.27.</bibl> 
+               <p>My ſheep hear my voice, and I know them, and they follow
+me.</p>
+            </q>
+            <q>
+               <bibl>2 Epiſt. John ver. 9.</bibl> 
+               <p>Whoſoever tranſgreſſeth, and abideth not in the doctrine
+of Chriſt, hath not God: he that abideth in the doctrine of Chriſt, he hath
+both the Father and the Son.</p>
+            </q>
+            <q>
+               <bibl>1 John 2.5.</bibl> 
+               <p>Whoſo keepeth his word, in him verily is the Love of God
+perfected.</p>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed in the Year 1662.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:33666:2"/>
+            <pb facs="tcp:33666:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>WEe the Inhabitants of <hi>Beere</hi> and <hi>King<g ref="char:EOLhyphen"/>ſtone</hi> in
+the County of <hi>Dorſet,</hi> who have lived under the Rich Droppings,
+Plentiful Soul-ſearching, Enlivening and Refreſhing Dews of Hea<g ref="char:EOLhyphen"/>ven, which
+<hi>HE</hi> who promiſed to be as the Dew unto <hi>Iſrael,</hi>
+               <note place="margin">Hoſ. 14.5.</note> hath conveyed to us, by one of his Eminent and
+Faithful Meſſengers of the Goſpel of <hi>Jeſus Chriſt,</hi> th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for many years amongſt us hath
+endeavoured (as the Apoſtle ſpeaks of himſelf) to be pure from the blood
+of all men, and to de<g ref="char:EOLhyphen"/>clare <hi>All,</hi> and <hi>Onely</hi> the Counſels of
+God:<note place="margin">Acts 20.26,27.</note> And was in<g ref="char:EOLhyphen"/>ſtant in Seaſon,
+and out of Seaſon, diligent in the work of the Lord, according as the ſame
+Apoſtle doth ſtrictly exhort unto, taking heed to himſelf, and to the
+flock, over the which the <hi>Holy Ghoſt</hi> made him
+<hi>Overſeer;</hi>
+               <note place="margin">See 2 Tim. 4.1,2.</note> And of whom we
+can truly ſay, (and to which many can bear wit<g ref="char:EOLhyphen"/>neſſe) that he was, and
+is, an example of the Believers, in Word, in Converſation, in Charity, in
+Spirit, in Faith, in Purity.<note place="margin">1 Tim. 4.12.</note> His Life and
+Converſation adorns his Profeſsion, and Doctrine; And having received much
+Benefit and Comfort by his Miniſtry, have endeavoured to Communi<g ref="char:EOLhyphen"/>cate to
+thee, ſome of thoſe Spiritual advantages, and Conſo<g ref="char:EOLhyphen"/>lations, we have
+enjoyed, through the Bleſsing of God, upon his diligent and faithful Labours,
+in his last publick Exer<g ref="char:EOLhyphen"/>ciſe, which he deliverod amongst us; Wiſhing the
+like Be<g ref="char:EOLhyphen"/>nefit and Comfort to thee, and more alſo, than we have had. Becauſe
+of our <hi>Non-improvement</hi> of ſuch choice Mercies, and rich Priviledges,
+which we have ſufficient cauſe to be Humbled for; And continually to lament
+that we are now deprived of them, by his removal from us.</p>
+            <p>And had this following diſcourſe been ſet ſorth to
+pub<g ref="char:EOLhyphen"/>lick <pb facs="tcp:33666:3"/>view by the Author himſelf (whoſe Modeſty would
+con<g ref="char:EOLhyphen"/>ceal his worthy Labours) It would have been more large and perfect, and
+ſo render'd more acceptable. We muſt there<g ref="char:EOLhyphen"/>fore deſire thee (Chriſtian
+Reader) with a charitable Cen<g ref="char:EOLhyphen"/>ſure, to cover over verbal or literal
+miſtakes, and in Love to Correct with thy pen, what may be found amiſſe
+by thee, in this following Treatiſe, wherein are contained, <hi>Things of the
+moſt weighty concernment,</hi> and which are Exceed<g ref="char:EOLhyphen"/>ing uſeful at all time,
+for Edification and Inſtruction to All; and will Adminiſter matter of
+ſufficient Comfort under any Condition to them that have the Special Abode of
+God and Christ with them.</p>
+            <p>The Lord Jeſus Chriſt by his Spirit; lead thee into all
+Truth.</p>
+            <closer>
+               <signed>So Prayes Thine in Chriſt.</signed>
+            </closer>
+            <epigraph>
+               <q>VINCENTI DABITUR.</q>
+            </epigraph>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33666:3"/>
+            <head>The Royal Preſence, OR Gods Tabernacle with Men.</head>
+            <epigraph>
+               <q>
+                  <bibl>JOHN XIV. XXIII.</bibl> 
+                  <p>Jeſus anſwered, and ſaid unto him; If a man love me, he
+will keep my words; and my Father will love him, and we will come unto him, and
+make our Abode with him.</p>
+               </q>
+            </epigraph>
+            <p>THE Departure of <hi>Jeſus Chriſt</hi> unto his Father, from
+whoſe boſome he came into the World, was very ſadly reſented by his
+Diſciples; whoſe mixt paſſions produce a very great diſturbance, and
+trouble upon their Spirits.</p>
+            <p>The inward Anxiety, and unconcealed grief of the Diſci<g ref="char:EOLhyphen"/>ples,
+move the Bowels of their more affectionate Lord, to pitty their caſe, and
+provide for their relief, and gives them inſtructions how to expreſſe
+their love unto him in his abſence, not ſo much in carrying bluber'd eyes,
+and heavy hearts, as by remembring, and obſerving the Councels, and
+Inſtructions that he had give to them, while he was preſent with them; So
+that this whole Chapter is fill'd up with Counſels, and Comforts, Directions,
+and Conſola<g ref="char:EOLhyphen"/>tions.</p>
+            <p>
+               <hi>Firſt,</hi> Directions and Counſels, eſpecially in the
+1, 13, 15. <hi>verſes.</hi>
+            </p>
+            <p>
+               <note place="margin">1 Faith.</note>
+               <hi>Firſt,</hi> To the
+exerciſe of Faith, <hi>verſe</hi> 1. <hi>Ye believe in God, believe alſo
+in me.</hi> And this is the life, even a life of Faith, which we muſt live,
+till we come to enjoyment <pb facs="tcp:33666:4"/>of <hi>Chriſt,</hi> by which we fetch
+comforts in all troubles, and ſtrength againſt all tentations from
+<hi>Jeſus Chriſt.</hi>
+            </p>
+            <p>
+               <note place="margin">2. Prayer.</note>
+               <hi>Secondly,</hi> To the duty
+of Prayer, <hi>verſ.</hi> 13. which is the pro<g ref="char:EOLhyphen"/>per duty of an afflicted
+State, as <hi>Jam.</hi> 5.13. <hi>Is any afflicted? let hi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pray.</hi> By prayer the Soul empties his complaints
+into <hi>Gods</hi> boſome, and finds eaſe, by telling him of all the
+trouble and grief that attends his ſtate; <hi>Prayer</hi> hath that Divine
+excellency, that like a Heavenly Charm, it ſpeaks away trouble, and ſpeaks
+in comfort; as 'tis ſaid of <hi>Hannah</hi> 1 <hi>Sam.</hi> 1.18. <hi>She
+prayed, and went away, and did eat, and her Countenance was no more ſad;</hi>
+And thus our prayers alwayes ſpeed, when they be made by the help of the
+<hi>Spirit,</hi> and offered up to <hi>God</hi> in the name of
+<hi>Chriſt,</hi> 13, 14. verſes. <hi>Whatſoever you ſhall ask the
+Father in my name, that you ſhall receive.</hi>
+            </p>
+            <p>
+               <note place="margin">3. Obedi<g ref="char:EOLhyphen"/>ence.</note>
+               <hi>Thirdly,</hi> To
+Obedience, in the 15 <hi>verſ.</hi> to do the work committed to them; <hi>If
+yee love me, keep my Commandements.</hi> You cannot better expreſſe your
+love to me, then in keep<g ref="char:EOLhyphen"/>ing my words; Nor is there a more certain way for men
+to find comfort, than this; 
+<note place="margin">3 Pr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 17.</note> 
+               <hi>by keeping his Commands,</hi> for then, though they
+cannot enjoy his <hi>perſon,</hi> yet they ſhall not miſſe his
+<hi>promiſe.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The Conſolations which he gives them in the 2
+<hi>verſ. &amp;c.</hi> the 16 <hi>verſ. &amp;c.</hi> and 23 <hi>verſ.
+&amp;c.</hi>
+            </p>
+            <p>
+               <note place="margin">1. The place to which he
+goes.</note>
+               <hi>Firſt,</hi> In the 2, 3, 4, <hi>verſes, &amp;c.</hi> From
+the place whe<g ref="char:EOLhyphen"/>ther he was going, <hi>To his Father, and their Father, his Home,
+and their Home;</hi> whence he did intend to come a<g ref="char:EOLhyphen"/>gain to them. So that his
+going from them, was but a Re<g ref="char:EOLhyphen"/>ceſſe, or withdrawing for a time, untill he
+came, for in the 3 <hi>verſ. I will come again, and receive you to my
+ſelf,</hi> rendred in the <hi>Greek.</hi>
+               <note n="a" place="margin">Gr.
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the pre<g ref="char:EOLhyphen"/>ſentenſe.</note> I
+come again, in the preſen<g ref="char:EOLhyphen"/>tenſe, to intimate the certainty of his coming to
+them a<g ref="char:EOLhyphen"/>gain, as if he were already come; which in the 28 <hi>verſ.</hi> of
+this Chapter, <hi>Chriſt</hi> tells them, ſhould be matter of great Joy to
+them. <hi>If yee loved me, yee would rejoyce, be<g ref="char:EOLhyphen"/>cauſe I ſaid, I go unto
+the Father.</hi>
+            </p>
+            <p>
+               <note place="margin">The pro<g ref="char:EOLhyphen"/>miſe of his Spirit the
+Comforter.</note>
+               <hi>Secondly,</hi> From the 16 <hi>v.</hi> The promiſe of
+the <hi>Spirit,</hi> which ſhall ſupply his abſence, ſuch a
+<hi>Spirit,</hi> as ſhall teach them, comfort them, and be
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ead of all to them, give them
+ſuch Joy, Courage, and <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, as
+the world can neither <pb facs="tcp:33666:4"/>give, nor take away, 27 <hi>verſ. Peace I
+leave with you, my peace I give unto you,</hi> &amp;c.</p>
+            <p>
+               <note place="margin">The abode of God and Chriſt with
+them.</note>
+               <hi>Thirdly,</hi> In the 23. <hi>verſe,</hi> in the Text, <hi>We
+will come, and makeour abode with him, while you keep my words;</hi> which is
+the great promiſe here.</p>
+            <p>
+               <hi>If a man love me, he will keep my words, and my Father will
+love him, and we will come unto him, and make our abode with him.</hi>
+            </p>
+            <p>
+               <hi>The words of the Text</hi> are an anſwer to the queſtion
+of <hi>Judas,</hi> (not <hi>Iſcariot</hi>) <hi>Lord how is it, that thou wilt
+manifeſt thy ſelf unto us, and not unto the world? Jeſus Chriſt</hi>
+gives the anſwer. <hi>If a man love me, he will keep my words,</hi> &amp;c.
+To him the promiſe is made, That the <hi>Father</hi> will love him, They love
+him that keep his words, and to theſe he hath ſaid, <hi>he will manifeſt
+his love to them, and make his abode with them;</hi> In which words there are
+three parts conſiderable.</p>
+            <p>
+               <note place="margin">Parts of the Text. 3.</note>
+               <hi>First,</hi> A
+Suppoſition. If a man love me, he <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> A Poſition. Which is the effect of that love.
+<hi>He will keep my words.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> A Promiſe. Which is twofold.</p>
+            <p>
+               <hi>Firſt,</hi> Of the <hi>Fathers</hi> love. <hi>My Father will
+love him.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The Co-habitation of the <hi>Father and
+Son</hi> with ſuch a perſon. <hi>We will come unto him, and make our abode
+with him.</hi>
+            </p>
+            <p>
+               <hi>The Obſervations</hi> that I intend to inſiſt upon, are
+two;</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>2</label> Firſt, <hi>That it is the duty
+and ſpecial property of them that love</hi> Jeſus Chriſt <hi>in
+ſincerity, to keep the words of</hi> Chriſt.</p>
+            <p>Secondly, <hi>That God and Chriſt will make their abode with
+them that keep his words.</hi>
+            </p>
+            <p>Firſt, <hi>Of the firſt of theſe,</hi> That it is the duty
+and ſpecial property of them that love <hi>Jeſus Chriſt</hi> in
+ſincerity, to keep the words of <hi>Christ.</hi>
+            </p>
+            <p>
+               <hi>If any man love me, he will keep my words, he will do my will,
+walk in my wayes, treaſure up my truths and Counſells.</hi>
+            </p>
+            <p>
+               <hi>This Doctrine</hi> requires three things to be ſpoken to in
+their order.</p>
+            <p>Firſt, <hi>That</hi> Jeſus Chriſt <hi>muſt be truly
+loved.</hi>
+            </p>
+            <p>
+               <hi>Secondly, What it is to keep his words.</hi>
+            </p>
+            <p>
+               <hi>Thirdly, Why it is both the duty and property of them that
+love him, to keep his words.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:33666:5"/>
+               <hi>Firſt,</hi> That <hi>Jeſus Chriſt</hi>
+muſt be truly loved; there is ſuch an indiſpenſible neceſſity of
+this, that the Apoſtle ſayes 1 <hi>Cor.</hi> 16.22. <hi>If any man love not
+the Lord Jeſus, let him be</hi> Anathema Maranatha, <hi>let him be
+curſed.</hi>
+            </p>
+            <p>But becauſe every one pretends highly to love <hi>Jeſus
+Christ,</hi> and but few that love him indeed, I ſhall ſhew two things more
+briefly;</p>
+            <p>Firſt, <hi>Who he is that truly loves him.</hi>
+            </p>
+            <p>Secondly, <hi>Why we ſhould all truly love him.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Who he is that truly loves
+<hi>Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> He truly loves <hi>Jeſus Chriſt,</hi> who
+upon the diſcove<g ref="char:EOLhyphen"/>ry, and tender of <hi>Jeſus Chriſt</hi> in the Goſpel,
+as <hi>King, Prieſt,</hi> and <hi>Prophet,</hi> can willingly deny all for
+him; as the Merchant, <hi>Mat.</hi> 13.45.46. ſold all that he had for the
+goodly Pearl. And ſo <hi>Paul, Phil.</hi> 3.8. <hi>accounts all Dung,</hi>
+his parts, his righteouſneſs by the Law, his greateſt excellencies; He
+loves Chriſt in <hi>Deed,</hi> and not in <hi>Shew</hi> only, who can leave
+the world, his deareſt luſts, his beſt righteouſneſs for
+<hi>Chriſt.</hi>
+            </p>
+            <p>This is a true conjugal love, <hi>Pſal.</hi> 45.10. <hi>Hearken
+O daughter, and confider, and encline thine ear, forget alſo thine own
+people,</hi> &amp;c. When <hi>Chriſt</hi> ſees that we have ſuch a love
+to him, that we will part with all for him, then he ſees a beauty in us that
+delights him.</p>
+            <p>
+               <hi>Secondly,</hi> He truly loves <hi>Jeſus Chriſt,</hi> who
+having received him, will rather loſe all, than part with him again; who
+ac<g ref="char:EOLhyphen"/>counts <hi>Jeſus Chriſt</hi> better than his beſt things, as he
+ſayes in <hi>Mat.</hi> 10.37. <hi>He that loves Father or Mother more than
+me, is not worthy of me,</hi> &amp;c. therefore ſayes the Spouſe,
+<hi>Cant.</hi> 8.6. <hi>Set me as a ſeal upon thine heart, as a ſeal upon
+thine arm: let me be ſo united to thee, that I may never be ſever'd from
+thee.</hi> It is a very hard leſſon, and an irkſom duty for the beſt of
+men, to part with friends, liberty, peace, life; all theſe, or either of
+theſe ſweet mercies; but to part with <hi>Chriſt,</hi> nothing can
+perſwade, or enforce the Soul that truly loves him; that's a thought more
+cruel than the Grave, witneſs the holy <hi>Martyrs,</hi> a whole cloud of
+witneſſes; that notable and eminent <hi>Galeacius,</hi> Marqueſs of
+<hi>V<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> &amp;c.</p>
+            <p>
+               <hi>Thirdly,</hi> He that truly loves <hi>Jeſus Chriſt,</hi>
+takes abundance of delight in Communion with him. No <hi>pleaſure</hi> like
+the kiſſes of his mouth, no <hi>ſweetneſs</hi> like that of his
+boſom, all his <pb facs="tcp:33666:5"/>wayes are peace, and his paths
+pleaſantneſſe; <hi>Chriſt</hi> makes every condition Comfortable, there
+is no comfort of life, but in that little enjoyment of <hi>Chriſt,</hi> that
+the Soul hath in his life, 'tis <hi>Communion</hi> with <hi>Chriſt,
+converſe</hi> with him, that is all my <hi>comfort</hi> and
+<hi>pleaſure</hi> in the world. O how doth the Spouſe take care that he be
+not diſturbed, in <hi>Cant.</hi> 2.7. <hi>I charge you, O yee daughters of
+Jeruſalem, by the Roes, and by the Hinds of the field, that ye ſtirr not
+up, nor awake my Love, till he pleaſe.</hi> The words are an alluſion, to
+one that would not have her Friend diſturbed, and ſpeaks to her
+Compani<g ref="char:EOLhyphen"/>ons, and charges them by all that is dear and pleaſant to them, not
+to break the reſt of her <hi>beſt Beloved,</hi> and ſhews the wonderful
+delight the Soul takes in Communion with <hi>Jeſus Chriſt;</hi> and the
+ſpecial care that it alwayes hath, that no Tentation break in, nor corruption
+break out, to inter<g ref="char:EOLhyphen"/>rupt that ſweet Communion, or occaſion
+<hi>Chriſts</hi> depar<g ref="char:EOLhyphen"/>ture, who will not for any profit, commit any ſin,
+or cauſe <hi>Jeſus Chriſt</hi> to depart from him.</p>
+            <p>Fourthly, He that truly loves <hi>Jeſus Chriſt,</hi> having
+loſt the ſight of him, is never ſatisfied, till he come to the
+re<g ref="char:EOLhyphen"/>enjoyment of him, is alwayes at loſſe, and is never quiet, till he
+enters into a freſh acquaintance and communion with him, as in that of
+<hi>Joſeph</hi> and <hi>Mary,</hi> they having loſt their Son, went
+ſeeking till they found him; So <hi>Cant.</hi> 3.1,2,3. <hi>&amp;c. By night
+on my Bed, I ſought him whom my Soul loveth, I ſought him, but I found him
+not, I will riſe now and go about the City, in the Streets, and in the broad
+wayes,</hi> &amp;c. <hi>I ſaid to the Watchmen, Saw ye him whom my Soul
+loveth? &amp;c.</hi> By all which, is expreſſed the ſedulous care and
+induſtry of a living Soul ſeeking after Chriſt.</p>
+            <p>Firſt, <hi>By night in her bed.</hi> Jeſus Chriſt hath her
+bed thoughts, <hi>(i.)</hi> in her Cloſet and private duties, of Prayer,
+ſerious Meditations, Spiritual Ejaculations, and ſecret ſelf
+Examinations; in all theſe the Soul enquires. As one that loves the World, by
+night his Meditation is of the World; ſo the man of pleaſures, and honours,
+is purſuing his luſts in the night ſeaſon; <hi>The wicked man is
+contriving miſchief up<g ref="char:EOLhyphen"/>on his bed.</hi> So the Soul that loves
+<hi>Chriſt,</hi> his thoughts are ſtill at work after Chriſt.</p>
+            <p>Secondly, <hi>I will riſe now and go about the City, &amp;c.
+(i.)</hi> 
+               <pb facs="tcp:33666:6"/>I will betake my ſelf to all publick Ordinances, and
+ſhew more zeal and life in my duties, and in theſe will I make enquiry.</p>
+            <p>
+               <hi>Thirdly, I asked the watch-men, (i.)</hi> the Miniſters of
+the Goſpel, which are or ſhould be as <hi>faithful watch-men,</hi> that
+watch for our Souls, and be able <hi>to ſpeak a word in ſeaſon,
+&amp;c.</hi> So nothing will ſatisfie the Soul that truly loves Chriſt
+without him; and no means ſhall be neglected till ſhe enjoy Him.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>Secondly,</hi> Why muſt he be
+thus beloved?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>1</label> 
+               <hi>Firſt,</hi> Becauſe
+he is lovely, <hi>altogether lovely.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Lovely in his <hi>life,</hi> obſerving all the
+will of <hi>God;</hi> there was a wonderful beauty upon him, if we behold, and
+can underſtand, that hidden glory of an untainted Holi<g ref="char:EOLhyphen"/>neſſe, and exact
+conformity to the will of <hi>God.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Lovely in his <hi>death,</hi> never more lovely
+and amiable to the believing Sinner, then when he was moſt deſ<g ref="char:EOLhyphen"/>picable in
+the eyes of Rebellious Sinners. O then, he appears moſt beautiful and
+deſireable, when he hangs on the Croſſe, there making our Peace,
+procuring our Pardon, obtaining Life and Glory for us, by that ſhameful
+death.</p>
+            <p>
+               <hi>Thirdly,</hi> Lovely in all his <hi>Graces,</hi> each Grace a
+match<g ref="char:EOLhyphen"/>leſſe Jewel. Rocks of Diamonds, Mountains of Pearl, not worthy to be
+mentioned with the leaſt of his Excellencies; If he put but a little of this
+Grace upon any Soul, though he be never ſo vile, cloath'd with corruption; as
+in <hi>Ezek.</hi> 16. from the 9. to the 16 <hi>verſ. yet may be made
+beautiful by his Comelineſſe.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> Lovely in all his <hi>Ordinances,</hi> in which
+the more immediate ſight the Soul hath of him, the more he is taken with his
+Beauty; No wonder he is call'd in <hi>Hag.</hi> 2.7. <hi>the deſire of all
+Nations.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>2</label> 
+               <hi>Secondly,</hi> Becauſe
+of his deſerving love; <hi>we loved him, becauſe he firſt loved
+us.</hi>
+            </p>
+            <p>Conſider in his love, theſe four particulars.</p>
+            <p>
+               <hi>Firſt,</hi> He laid down his life for us, <hi>ſuch a Love,
+will de<g ref="char:EOLhyphen"/>ſerve love, and life too;</hi> Joh. 15.13. <hi>Greater Love, hath no
+man, then this, that a man lay down his life for his friend.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> He lives now in Heaven for us, 7 <hi>Heb.</hi>
+25. <hi>He ever liveth, to make interceſſion for them.</hi> He is there 
+<pb facs="tcp:33666:6"/>minding our neceſſities, agitating our affairs; by his
+ſitting there, we have Liberty of comming thither; by his ſitting there in
+glory, we have our ſtanding here in Grace.</p>
+            <p>
+               <hi>Thirdly,</hi> He accounts that as done to himſelf, that is
+done to them, that are his, <hi>Zach.</hi> 2.8. <hi>He that toucheth you,
+toucheth the Apple of his eye, and</hi> Mat. 10.40,41,42. &amp;c. <hi>He that
+receiveth you, receiveth me,</hi> and ſo he ſaid to <hi>Saul,</hi> Acts
+9.4. <hi>why perſecuteſt thou me?</hi> when he was with Com<g ref="char:EOLhyphen"/>miſſion
+from the <hi>High Prieſt,</hi> dragging the poor Profeſſors of
+<hi>Jeſus Chriſt</hi> to the Priſon.</p>
+            <p>
+               <hi>Fourthly,</hi> He longs to have us with him. <hi>Joh.</hi>
+17.24. <hi>Father I will that where I am, there they may be alſo, to behold
+my Glory.</hi> He is not <hi>(q. d.)</hi> ſatisfied without their compa<g ref="char:EOLhyphen"/>ny;
+and is alwayes imparting his moſt ſecret Counſels to them, <hi>Joh.</hi>
+15.16. <hi>Henceforth I call you not Servants, for the Servant knoweth not what
+his Lord doth, but I have cal<g ref="char:EOLhyphen"/>led you Friends, for all things that I have heard
+of my Fa<g ref="char:EOLhyphen"/>ther, I have made known unto you.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>3</label> 
+               <hi>Thirdly,</hi> Becauſe
+otherwiſe we ſhall not regard his words; which is intimated in the Text,
+<hi>If we love him, we ſhall keep his Words,</hi> but if we love him not, we
+will not keep his Words; It is want of love to <hi>Chriſt,</hi> that is the
+cauſe of the abounding of every ſin, for if we did love him, we ſhould
+keep his Commands, which is the ſecond particular.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>Secondly,</hi> What is it to keep
+the words of <hi>Chriſt?</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> There is <hi>a Natural and Mental keeping of the
+words of Christ;</hi> and ſo we muſt keep them, that is, <hi>Re<g ref="char:EOLhyphen"/>member his
+Words, his promiſes, Counſels, and Appointments.</hi>
+            </p>
+            <p>The Memory is mans Storehouſe, or Cabinet, that ſhould be kept
+Sacred for the Truths of <hi>Chriſt;</hi> So the Diſciples kept the word of
+<hi>Chriſt,</hi> when they remembred his ſayings; and <hi>David</hi>
+Pſal. 119.93. <hi>J will never forget thy Precepts, for by them thou haſt
+quickned me,</hi> (i.) <hi>I will keep thy Pre<g ref="char:EOLhyphen"/>cepts;</hi> for what we forget,
+we loſe, and what we remem<g ref="char:EOLhyphen"/>ber, we keep; And thus, as Friends take pleaſure
+to look ſometimes on the Love-tokens of their abſent Friends. So may we
+have ſingular comfort and refreſhment, to ſee the Heart of Chriſt in
+the Counſels, Promiſes, and Appoint<g ref="char:EOLhyphen"/>ments left with us.</p>
+            <p>
+               <pb facs="tcp:33666:7"/>
+               <hi>Secondly,</hi> There is an <hi>Evangelical and
+Practical keeping of the words of Chriſt.</hi> When we do believe promiſes,
+and obey commands; <hi>Promiſes not believed, and Precepts not obey<g ref="char:EOLhyphen"/>ed, are
+as water ſpilt on the earth, beſides the veſſel that ſhould receive
+it, Heb.</hi> 4.2. but when they are believed, <hi>they be as liquor put into
+the veſſel for its proper uſe.</hi> Hence ſaies <hi>Chriſt,</hi> Luke
+11.28. <hi>Bleſſed are they that hear the word of God and keep it.</hi>
+Then we keep the words of <hi>Chriſt,</hi> when we be<g ref="char:EOLhyphen"/>lieve his promiſes,
+obſerve his precepts in all our converſa<g ref="char:EOLhyphen"/>tion, and walk by his appointments
+and inſtitutions in all our duties.</p>
+            <p>
+               <hi>Thirdly,</hi> Why 'tis their property and duty that love
+<hi>Jeſus Chriſt</hi> to keep his words.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>1</label> 
+               <hi>Firſt,</hi> Becauſe
+<hi>true love is comprehenſive;</hi> He that love Chriſt truly loves all
+that is his; <hi>He that loves him that be<g ref="char:EOLhyphen"/>gat, loves him alſo that is
+begotten:</hi> The nearer any thing is to Chriſt, the better it is beloved;
+and then we love the word when we keep it, as a ſpecial pledge of his love;
+<hi>To have his word, and a heart to keep it, is a double bleſſing;</hi>
+and indeed, ſuch a gift as the word of <hi>Christ</hi> is, is worthy to be
+loved for it ſelf, and kept for the givers ſake.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>2</label> 
+               <hi>Secondly,</hi> Becauſe
+<hi>true love is Operative,</hi> 'tis the princi<g ref="char:EOLhyphen"/>ple of Goſpel obedience, 2
+<hi>Cor.</hi> 5.14. <hi>The love of Chriſt conſtraineth us.</hi> Where
+there is the diſpoſition of a Son, there will be obedience to the Fathers
+commands; ſo where there is a ſpiritual love to <hi>Chriſt,</hi> it will
+ſet the ſoul on work, and quicken it to keep the words of
+<hi>Chriſt,</hi> as is ſaid of Faith, <hi>Shew me thy Faith by thy
+works.</hi> So ſhew thy love to <hi>Chriſt</hi> by thy works; as Faith
+without works is dead, ſo is love without obedience.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>3</label> 
+               <hi>Thirdly,</hi> Becauſe
+<hi>keeping the words of Chriſt gives the cleareſt and ſureſt
+teſtimony of the truth of our love to Jeſus Christ. Probatio
+delectationis eſt exhibitio operis;</hi>
+               <note place="margin">Greg. Hom.</note>
+Obedi<g ref="char:EOLhyphen"/>ence is the moſt lively teſtification of love, as <hi>Chriſt</hi>
+ſaid to <hi>Peter, Loveſt thou me?</hi> &amp;c. <hi>ſhew it in this, in
+doing thy du<g ref="char:EOLhyphen"/>ty; Feed my ſheep.</hi> So Chriſt tells us in the Text,
+<hi>Where the fire of love is in the breaſt, there the flame of duty and
+ſervice is in the hands.</hi> Joh, 15.14. <hi>Ye are my friends, if ye do
+what<g ref="char:EOLhyphen"/>ſoever I command you.</hi> In the 1 Joh. 5.3. <hi>In this is the love of
+God, that we keep his Commandments.</hi>
+            </p>
+            <pb facs="tcp:33666:7"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>1</label> 
+               <hi>Uſe</hi> 1.
+For Exhortation.</p>
+            <p>
+               <hi>Firſt,</hi> To a mental keeping of the words of
+<hi>Chriſt,</hi> accor<g ref="char:EOLhyphen"/>ding to that word, <hi>Heb.</hi> 2.1. <hi>We ought
+therefore to give the more diligent heed, to the things which we have received,
+leſt at any time we let them ſlip.</hi> And that we may not forget, but
+keep in our memories the words of <hi>Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Firſt conſider,</hi> That all the promiſes and
+counſells, which <hi>Jeſus Chriſt</hi> hath made known to us, are not
+only for preſent, but for future uſe, <hi>Iſa.</hi> 42.23. <hi>Hearken
+and hear for the time to come.</hi> We ſhould hear as if we were to hear no
+more. The Cordial which hath ſome time revived us, muſt not be laid
+aſide, leſt for want of it another time, we faint quite a<g ref="char:EOLhyphen"/>way. The reaſon
+why they were ready to faint under af<g ref="char:EOLhyphen"/>flictions, <hi>Heb.</hi> 13.5. was,
+<hi>becauſe they had forgotten the ex<g ref="char:EOLhyphen"/>hortation, which ſpeaketh to them as
+to Sons.</hi> For this cauſe <hi>Jeſus Chriſt</hi> often bids his
+Diſciples <hi>remember the word he had ſpoken to them,</hi> and knowing
+their frailty, promiſes his ſpi<g ref="char:EOLhyphen"/>rit, <hi>Joh.</hi> 14.26. and that (ſayes
+he) <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſhall bring to your
+remembrance.</hi>
+            </p>
+            <p>
+               <hi>Secondly conſider,</hi> Not to remember the words of
+<hi>Chriſt,</hi> is a ſad ſign of our diſ-eſteem of <hi>Jeſus
+Chriſt.</hi> We uſually remember Precepts, Counſels, and Sayings,
+according to the authority which the perſon hath with us, from whence they
+come. It is a very great diſhonour to <hi>Jeſus Chriſt,</hi> when we
+ſhall caſt his words behind our backs. Did we honour <hi>Jeſus
+Chriſt</hi> as our <hi>King, Lord, and Lawgiver,</hi> we ſhould be more
+careful to remember what he hath ſpoken to us. We often blame our
+<hi>heads,</hi> as if the fault lay only there, that we do not remember the
+words of <hi>Chriſt,</hi> when indeed the fault lies moſt in the
+<hi>hearts,</hi> that we have not more love and eſteem of <hi>Chriſt</hi>
+there.</p>
+            <p>
+               <hi>Thirdly,</hi> The time will come, when we ſhall dearly
+repent every truth forgotten, that we did not endeavour <hi>to ſeal
+in<g ref="char:EOLhyphen"/>ſtruction upon our hearts.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> When <hi>God</hi> ſhall with-hold
+inſtruction from us, be<g ref="char:EOLhyphen"/>cauſe we have refuſed it; the time may come, when
+as <hi>Amos</hi> 8.12. <hi>Men ſhall run to and fro, and ſeek the word of
+the Lord, and ſhall not find it;</hi> and then we ſhall ſee the worth of
+the word, that now we <hi>prize not.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> When <hi>God</hi> ſhall call us to an account
+for all the <pb facs="tcp:33666:8"/>Sermons, and Inſtructions we have received, as he
+will cer<g ref="char:EOLhyphen"/>tainly do; though we forget, yet he will remember, and he will ask how
+we have kept, and improved the Word he hath ſpoken to us.</p>
+            <p>To help us in keeping, or remembring the words of
+<hi>Chriſt.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Directions. </seg>
+               </label> 
+               <hi>Firſt,</hi> Let your
+hearts be affected with the worth and ex<g ref="char:EOLhyphen"/>cellency of the word, that it is more
+precious than Gold or Silver: and then we ſhall keep it as choice treaſure.
+That which a man prizeth, he will keep in ſafe cuſtody, and have often in
+his eyes, as <hi>David</hi> ſayes of the word, <hi>Pſal.</hi> 119.97. <hi>O
+how I love thy Law, it is my meditation all the day long.</hi> It a man account
+the word as his treaſure, he will not forget it, as <hi>Jerem.</hi> 2.32.
+<hi>Can a Maid forget her Ornaments, or a Bride her Attires?</hi> This they
+forget not; Yet becauſe we account not the word as excellent and
+neceſſary as theſe, therefore it follows, <hi>Yet my people have
+forgotten me dayes without number.</hi>
+            </p>
+            <p>
+               <hi>Secondly.</hi> Apply every word of <hi>Chriſt</hi> to your
+own ſouls, though men will not keep what is anothers, yet uſually they keep
+what is their own; while men carve away the word to others, as if it concern'd
+them not, 'tis no marvel if they keep it not, but if we accounted every word as
+ſpoken to us, and our portion, we ſhould hear and keep it. Men re<g ref="char:EOLhyphen"/>member
+the news which concerns themſelves. We ſhould hear <hi>Chriſt</hi>
+ſpeaking, as <hi>Job</hi> 5.27. <hi>Hear thou this, know it for thy
+good.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> Meditate often upon what you have received, as
+<hi>Mary pondered the ſayings</hi> which ſhe heard, <hi>in her heart</hi>
+The way to keep any thing ſafe, is to have a conſtant eye upon it.
+Meditation is the Souls ſerious retiring into it ſelf, to take a view of
+all that of <hi>God,</hi> that is laid up within it ſelf.</p>
+            <p>
+               <hi>Fourthly,</hi> Haſten to do all that you have heard and
+learn<g ref="char:EOLhyphen"/>ed, <hi>Pſal.</hi> 119.60. It is ſaid by <hi>David, I made haſt and
+pro<g ref="char:EOLhyphen"/>longed not the time to keep his Commandments.</hi> A man will not eaſily
+forget his Trade; ſo if we daily obey commands, and believe promiſes, we
+cannot eaſily forget the com<g ref="char:EOLhyphen"/>mands and promiſes given to us: which laſt
+direction leads to the ſecond exhortation.</p>
+            <pb facs="tcp:33666:8"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Exh. </seg>2</label> 
+               <hi>Secondly,</hi> It
+may exhort us to keep the words of <hi>Chriſt</hi> with an Evangelical and
+Practical keeping. Keep the word as a man keeps his Rule or the Souldier keeps
+his Weapon; let not the word depart from thee, and do not thou depart from it,
+by forſaking the appointments and commands of <hi>Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> conſider, That if we do not keep the words of
+<hi>Chriſt,</hi> by obeying, and a ſuitable walking, we do but in vain
+pretend love to <hi>Jeſus Chriſt,</hi> as they that had no more of
+<hi>Chriſt,</hi> but to call him Lord, (<hi>Mat.</hi> 7.21.) <hi>Not every
+one that ſaith unto me, Lord, Lord, ſhall enter into the Kingdom of
+Heaven,</hi> &amp;c. So, not every one that ſayes he loves me, but he that
+doth my word, he is my friend.</p>
+            <p>
+               <hi>Secondly,</hi> conſider what a ſin it is to pretend love
+to <hi>Chriſt,</hi> and not ſo truly to love him, as to keep his words;
+'tis Hypocriſie; they be <hi>Chriſt</hi>'s falſe friends, an open enemy
+is leſs dangerous than they, <hi>Ezek.</hi> 33.31. <hi>They hear thy words,
+but they will not do them, their heart goes after their covetouſneſs;</hi>
+They be falſe to themſelves, and delude their own ſouls with a bare
+profeſſion and hearing, <hi>Jam.</hi> 1.22. <hi>Be doers of the word, and
+not hearers only, deceiving your own ſouls.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> conſider what judgement they incurre, and who
+can tell how great it is? 'tis call'd a beating with more ſtripes, when the
+leaſt ſtripe from that hand can break the loynes, <hi>Luke</hi> 12.47.
+<hi>He that knoweth his Maſters will, and doth it not, ſhall be beaten with
+many ſtripes.</hi>
+            </p>
+            <p>
+               <hi>Secondly</hi> conſider, This is the cleareſt evidence of
+our intereſt in <hi>Chriſt,</hi> of his love to us, <hi>that we keep his
+Com<g ref="char:EOLhyphen"/>mandments.</hi> By this we know that we have him as our <hi>Chriſt,</hi>
+when we do not only love him as a <hi>Jeſus,</hi> a Saviour, but obey him as
+a <hi>Lord,</hi> and follow his Law. When <hi>God</hi> ſhall write his Law in
+our hearts, Is not this an evidence that <hi>Chriſt</hi> is ours?</p>
+            <p>
+               <hi>Thirdly,</hi> Great and many are the encouragements which he
+hath promiſed to them that keep his words. There be ma<g ref="char:EOLhyphen"/>ny bleſſings in
+the word, but they only have the bleſſings for theirs, who keep his word,
+<hi>Jam.</hi> 1.15. <hi>Whoſo looketh into the perfect Law of Liberty, and
+continueth therein, he being not a forgetful hearer, but a doer of the work,
+this man ſhall be bleſ<g ref="char:EOLhyphen"/>ſed <pb facs="tcp:33666:9"/>in his deed;</hi> he ſhall ask
+what he will, and have it, <hi>Joh.</hi> 15.7. <hi>If you abide in me, and my
+words abide in you, ask what you will, and it ſhall be done unto
+you.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Direct. </seg>
+               </label> That we may do the words of
+<hi>Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Let it be the aim and intentions of our ſouls,
+when we come to hear, to turn hearing into doing. Say as <hi>Paul</hi> did,
+<hi>Acts</hi> 9.6. <hi>Lord what wilt thou have me to do?</hi> and
+<hi>Cor<g ref="char:EOLhyphen"/>nelius, Acts</hi> 10.33. <hi>Now therefore are we all here preſent
+be<g ref="char:EOLhyphen"/>fore God, to hear all things that are commanded thee of God.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Beg of <hi>God</hi> to give you ſuch a heart,
+that you may not only ſay, as the people in a good humour, once to
+<hi>Moſes; All that thou ſhalt ſpeak unto us, that will we obſerve and
+do;</hi> but find your hearts ſuch as in <hi>Deut.</hi> 5.29. <hi>O that
+there were ſuch an heart in them, that they would fear me, and keep all my
+Commandments always,</hi> &amp;c. It is he by whom the word is made (as
+<hi>James</hi> hath it)<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Jam. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1.
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. engraffed.</note>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>A fruit-bearing word.</hi>
+Begin all your hearing with prayers, and conclude them with prayers, becauſe
+'tis of the greateſt con<g ref="char:EOLhyphen"/>cernment.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>2</label> 
+               <hi>Laſtly,</hi> A uſe of
+comfort.</p>
+            <p>
+               <hi>Firſt,</hi> If we keep this word, the word will keep us. It
+will keep us in the worſt of times, yea at all times, <hi>Pro.</hi> 6.22.
+<hi>When thou goeſt, it ſhall lead thee; when thou ſleepeſt it ſhall
+keep thee; and when thou awakeſt, it ſhall talk with thee.</hi> If you keep
+his Commands, his Commands will keep you; If you keep his Promiſes, his
+Promiſes will bring you to Glory.</p>
+            <p>
+               <hi>Secondly,</hi> If we keep his word, we ſhall not want
+pre<g ref="char:EOLhyphen"/>ſent comforts. The preſent gratuities which we have from
+<hi>Chriſt,</hi> ſhould be enough to encourage us, if there were no future
+reward, <hi>Pſal.</hi> 19. <hi>In keeping of them there is great
+re<g ref="char:EOLhyphen"/>ward.</hi>
+               <note place="margin">1 Tim. 4.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. verſe.</note>
+            </p>
+            <p>
+               <hi>Thirdly, Jeſus Chriſt</hi> hath promiſed a
+bleſſedneſs to ſuch perſons; they be a bleſſed people,
+<hi>Rev.</hi> 1.3. <hi>Bleſſed is he that readeth, and they that hear the
+words of this Prophecy, and keep thoſe things which are written therein;</hi>
+and ſo in <hi>Luke</hi> 11.28. <hi>Bleſſed are they,</hi> &amp;c. and
+with the beſt of bleſſings doth be crown them in the Text, <hi>My Father
+will love him, and we will come to him, and will make our abode with him;</hi>
+which is the ſecond obſervation.</p>
+            <p>
+               <pb facs="tcp:33666:9"/> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſ. </seg>2</label> 
+               <hi>God and Chriſt will make
+their abode with them that keep his word.</hi>
+            </p>
+            <p>In which <hi>Obſervation,</hi> we ſhall take notice of theſe
+three particulars.</p>
+            <p>
+               <hi>Firſt,</hi> How <hi>God</hi> and <hi>Chriſt</hi> do make
+their abode with them that keep his word.</p>
+            <p>
+               <hi>Secondly,</hi> Why <hi>God</hi> and <hi>Chriſt</hi> will
+make their abode with ſuch.</p>
+            <p>
+               <hi>Thirdly,</hi> What an excellent bleſſing it is to have
+<hi>God</hi> and <hi>Chriſt</hi> abiding with us.</p>
+            <p>
+               <hi>Firſt,</hi> How <hi>God</hi> and <hi>Chriſt</hi> do make
+their abode with them that keep his word; in which theſe three particulars
+muſt be ſhown.</p>
+            <list>
+               <item>1. How <hi>God</hi> abides with his People.</item>
+               <item> 2. How <hi>Jeſus Chriſt</hi> abides with them.</item>
+               <item> 3. How both <hi>God</hi> and <hi>Chriſt</hi> will make
+their abode with them that keep his word.</item>
+            </list>
+            <p>
+               <hi>Firſt,</hi> How <hi>God,</hi> the firſt Perſon in the
+<hi>Trinity,</hi> is ſaid to make his abode with them that keep his word.</p>
+            <p>And this will be two wayes ſeen.</p>
+            <p>
+               <hi>Firſt,</hi> It is not here to be underſtood of his common
+or general preſence, as he is the infinite <hi>God,</hi> and being
+<hi>Omni<g ref="char:EOLhyphen"/>preſent,</hi> fills Heaven and Earth: for ſo he abides with all
+the works of his hands; yea, ſo he is with them that fear him not.</p>
+            <p>
+               <hi>Secondly,</hi> It is here properly underſtood of
+<hi>Gods</hi> abode by way of ſpecial preſence, as he is a gracious
+<hi>Father;</hi> there fore <hi>Jeſus Chriſt</hi> doth firſt expreſs
+the <hi>Fathers</hi> love, and then his abode, as the product and fruit of his
+love, <hi>My Fa<g ref="char:EOLhyphen"/>ther will love him, and we will come unto him,</hi> &amp;c. He
+will come and abide with his, as <hi>a God in Covenant</hi> with them,
+therefore hath he put it into a promiſe, in the 2. <hi>Cor.</hi> 6.16. <hi>I
+will dwell in them, and walk in them, and I will be their God, and they ſhall
+be my people.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> How <hi>Jeſus Chriſt</hi> will make his
+abode with them that keep his word? which will be ſhown alſo,
+<hi>Firſt,</hi> Negatively. <hi>Secondly,</hi> Affirmatively.</p>
+            <p>
+               <hi>Firſt Negatively,</hi> It is not to be underſtood of a
+carnal or corporeal preſence of <hi>Chriſt</hi> (as the Papiſt imagine)
+as if the fleſh of <hi>Chriſt</hi> could be in all places, <hi>whom the
+Heavens muſt <pb facs="tcp:33666:10"/>contain till the time of reſtitution of all
+things:</hi> for ſaies the Apoſtle, 2. <hi>Cor.</hi> 5.16. acknowledging,
+<hi>If he had known Chriſt after the fleſh, yet ſo, he knows him no
+more.</hi>
+            </p>
+            <p>
+               <hi>Secondly, Affirmatively,</hi> He makes abode with his people
+after a ſpiritual manner, <hi>God the Father</hi> makes his abode with his
+Servants, as a Father to them; <hi>Jeſus Chriſt</hi> abides with them, as
+the Head of his Church, as it is in <hi>Ephe.</hi> 5.23. <hi>He is the Head of
+his Church, and the Saviour of his Body. God</hi> abides with us in
+<hi>Chriſt, Jeſus Chriſt</hi> abides with us by his <hi>Spirit.</hi>
+            </p>
+            <p>
+               <note place="margin">Corn
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lap.</note>A learned Author
+ſhews four ways of <hi>Chriſts</hi> abode with Believers.</p>
+            <list>
+               <item>1. <hi>Politicè ut Rex in Regno,</hi> As a King in his
+Kingdom; and ſo he gives Laws as the only Head, and King of his Church:
+protects them, and order all their affairs.</item>
+               <item> 2. <hi>Oeconomicè, ut Puter in Dome,</hi> As a Father
+in his Houſe; and ſo he takes care, and makes proviſion for his people,
+as a Father doth for his Family.</item>
+               <item> 3. <hi>Ethicè, ut ratio in homine,</hi> As reaſon
+in a man, which is the light that directs man in all his actions; ſo
+<hi>Jeſus Chriſt</hi> di<g ref="char:EOLhyphen"/>rects and leads his people.</item>
+               <item> 4. <hi>Phiſice, us Anima in Corpore,</hi> As the Soul in
+the Body, which animates and acts the whole man, without which the Body is a
+dead, and liveleſs Trunck; ſo <hi>Jeſus Chriſt</hi> doth quicken our
+ſoules, by whom we have ſpiritual life.</item>
+            </list>
+            <p>And that he is the Head of his <hi>Church,</hi> and thus abides
+with them,</p>
+            <p>
+               <hi>First</hi> conſider, He hath all grace and life in him;
+<hi>John</hi> 5.26. <hi>As the Father hath life in himſelf, ſo hath he
+given to the Son, to have life in himſelf;</hi> therefore the
+<hi>Pſalmiſt</hi> ſaies, <hi>Pſal.</hi> 36.9. <hi>With thee is the Well
+of life, and in thy light, ſhall we ſee light.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> From him is all grace and life conveyed out
+un<g ref="char:EOLhyphen"/>to us, <hi>John</hi> 1.16. <hi>of his fulneſs have we all received, and
+grace for grace.</hi> Yea, whatſoever we receive from the <hi>Spirit</hi> of
+<hi>God,</hi> we have from him originally, as in <hi>John</hi> 16.15. <hi>For
+he ſhall take of mine and ſhew it unto you.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> How <hi>God</hi> and <hi>Chriſt</hi> are both
+ſaid to make their abode with them that keep his word. And this I ſhall
+ſhew to be three wayes.</p>
+            <p>
+               <pb facs="tcp:33666:10"/>
+               <hi>Firſt,</hi> by their ſpecial
+<hi>Providence</hi> and <hi>Inſpection with them,</hi> and ſo we may ſee
+them in ſeveral Scriptures, a<g ref="char:EOLhyphen"/>biding with them, as in <hi>Zach.</hi>
+1.8,9,10. <hi>verſes, there's Jeſus Chriſt among the
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</hi> which repreſent the
+<hi>Church,</hi> and <hi>in Revel.</hi> 1.13. <hi>He is there in the midſt of
+his Golden Candleſticks,</hi> and <hi>David</hi> tells us of his experience
+of <hi>Gods</hi> preſence with him, <hi>Pſal.</hi> 73.23. <hi>I am
+continually with thee, thou upholdeſt me with thy right hand,</hi> and the
+Apoſtle <hi>Paul,</hi> 2 <hi>Tim.</hi> 4.17. <hi>The Lord stood by me;</hi>
+indeed the eyes of the <hi>Lord</hi> are upon the Righteous, and he hath
+ſaid, he will not leave them.</p>
+            <p>
+               <hi>Secondly,</hi> They make their abode with them in the
+<hi>Goſ<g ref="char:EOLhyphen"/>pel,</hi> and <hi>Goſpel Ordinances,</hi> where theſe be
+continued in their power and purity, there <hi>the Tabernacle of God is among
+men,</hi> and when theſe are taken away, <hi>I-chabod,</hi> the Glory is
+departed; We may ſay <hi>God</hi> hath forſaken us. As the <hi>Ark</hi> was
+a Tipe, and Token of <hi>God;</hi> ſpecial preſence with the <hi>Jews,</hi>
+ſo the <hi>Goſpel,</hi> and <hi>Goſpel Ordinances,</hi> are a ſig<g ref="char:EOLhyphen"/>nal,
+Token of <hi>Gods</hi> abode with us, for in theſe we may ſee him, in
+theſe, we may enjoy him, by theſe, we may be made like to him, as in the 2
+<hi>Cor.</hi> 3.18. <hi>But we all with open face, behold as in a Glaſſe
+the Glory of God, and are changed into the ſame Image, from Glory to Glory,
+even as by the Spirit of the Lord.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> They make their abode with them in the
+<hi>Spirit,</hi> which proceeds from the <hi>Father,</hi> and the <hi>Son;</hi>
+So they may both be ſaid truly to abide with us, while we have the
+<hi>Spirit,</hi> the Comforter, which proceeds from the <hi>Father,</hi> and
+the <hi>Son,</hi> as a pledge of their Love, <hi>Joh.</hi> 15.20. <hi>When the
+Com<g ref="char:EOLhyphen"/>forter is come, whom I will ſend unto you, from the Father, I will ſend
+him ſayes Chriſt, even the Spirit of truth,</hi> which
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which proceeds from the
+<hi>Father,</hi> there is an <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a
+<hi>Proceſſion</hi> of the <hi>Holy Ghoſt,</hi> from the <hi>Father,</hi>
+and the <hi>Son,</hi> to the <hi>People</hi> that keep his word; and thus
+Believers are ſaid to hold fellowſhip with the <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> and the
+<hi>Son,</hi> in the 1 <hi>Epiſt.</hi> of <hi>John</hi> 13. <hi>It is by the
+Spirit we are drawn; being drawn, we come; being come we are enabled to walk
+with God and Chriſt:</hi> It is this Spirit that doth all for us. As in the
+<hi>Ecche,</hi> The Ayre being moved by the voice, returns the ſame ſound
+by its own motion; So in all <pb facs="tcp:33666:11"/>our Communion with <hi>God</hi> and
+<hi>Chriſt;</hi> the Soul being moved by the <hi>Spirit,</hi> returns
+anſwer, by vertue of the <hi>Spi<g ref="char:EOLhyphen"/>rits</hi> motion in us; Come, ſayes the
+<hi>Spirit,</hi> I come ſayes the <hi>Soul,</hi> being taught by the ſame
+<hi>Spirit.</hi>
+            </p>
+            <p>All the works wrought on the Souls of men, in order to Salvation,
+are wrought of <hi>God</hi> and <hi>Chriſt</hi> in us, but by the
+<hi>Spirit;</hi> As in theſe three ſpecial particulars.</p>
+            <p>
+               <hi>Firſt,</hi> By the <hi>Spirit</hi> they inſtruct and
+teach; <hi>The Spirit is an enlightning Spirit, a Spirit of Judgement, and of
+burning.</hi> The <hi>Spirit</hi> reveals the Counſels of <hi>God,</hi> the
+great Miſteries of the Kingdom; Leads into all truth, makes men wiſe to
+Salvation.</p>
+            <p>
+               <hi>Secondly,</hi> By this <hi>Spirit</hi> they quicken &amp;
+comfort the Souls of men, <hi>Rom.</hi> 5.5. It is by the <hi>Spirit</hi> that
+<hi>the Love of God is ſhed abroad in our hearts.</hi> Our cold and frozen
+<hi>Spirits</hi> are warmed and made fit for action, and by this
+<hi>Spirit,</hi> we are awaken'd; Hence the <hi>Church</hi> prayes, for the
+breathings of this <hi>Spirit, Cant.</hi> 4.16. <hi>Awake, O North-wind, and
+come thou South, blow upon my Garden, that the Spices thereof may flow
+out.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> By this <hi>Spirit</hi> they do ſtrengthen,
+and eſtabliſh the hearts of men in the wayes of Holineſſe, thus they
+are made ſtrong in the <hi>Lord,</hi> and in the power of his might; ſtrong
+to reſiſt tentations, ſtrong to ſuppeſſe corruptions; ſtrong to
+perform duties, by this <hi>Spirit</hi> they are carryed through all
+difficulties; by this <hi>Spirit</hi> their Infirmities are healed;<note place="margin">Rom. 8.26.</note> they are made to perſevere, and kept
+<hi>ſtedfaſt, and unmoveable, alwayes abounding in the work of the
+Lord;</hi> and <hi>Sealed up to the day of Redemption.</hi>
+            </p>
+            <p>Thus <hi>God</hi> and <hi>Chriſt</hi> do make their abode with
+them that keep the words of <hi>Chriſt,</hi> till they come to make an
+ever<g ref="char:EOLhyphen"/>laſting abode with them in Heaven.</p>
+            <p>And according to the workings of this <hi>Spirit</hi> more or
+leſſe in the hearts of men, <hi>God</hi> is ſaid to be
+<hi>preſent,</hi> or <hi>abſent</hi> from his people.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſons. </seg>
+               </label> Secondly, <hi>The Reaſons
+why God and Chriſt will make their abode with them that keep his
+words.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> 
+               <hi>Firſt,</hi> Becauſe
+of their ſpecial Love to, and Care of them that keep his words. Indeed all
+the Care of <hi>God,</hi> in concerning his people, that he hath in the World,
+there<g ref="char:EOLhyphen"/>fore in the Second Commandement, he is ſaid <hi>to ſhew mercy 
+<pb facs="tcp:33666:11"/>to thouſands of them that fear him, and keep his
+Commande<g ref="char:EOLhyphen"/>ments,</hi> that do not <hi>caſt his word behind their backs,</hi>
+and for<g ref="char:EOLhyphen"/>ſaking his Appointments, <hi>follow their own Inventions;</hi> So
+that if we faithfully keep his word, he will abide with us in our work; And
+this is the Great Reaſon in the Text, <hi>My Fa<g ref="char:EOLhyphen"/>ther will Love him;</hi> Not
+but that he Loves his Elect from Eternity, but he will manifeſt his Love to
+them, and therefore <hi>he will make his abode with them,</hi> as the People of
+his Love; for in <hi>Deut.</hi> 32.9. <hi>The Lords Portion is his People, and
+Jacob is the Lot of his Inheritance,</hi> and in <hi>Mal.</hi> 3.17. they are
+called <hi>his Jewels,</hi> and <hi>men will abide with their
+Treaſure.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> 
+               <hi>Secondly,</hi> Becauſe of
+the near Relation that is between <hi>God</hi> and <hi>Christ,</hi> and them
+that keep his word. That is a very full place of Scripture for this purpoſe,
+<hi>Mat.</hi> 12.50. <hi>Whoſoever ſhall do the will of my Father which is
+in Heaven, the ſame is my Brother, and Siſter, and Mother.</hi> What nearer
+Relation can there be than this? So near are they to <hi>Jeſus Chriſt,</hi>
+that keep his word, obſerve his will, and be true and faithful to his
+Appointments; and ſure ſuch near Relations will deſire Cohabitation on
+both ſides.</p>
+            <p>
+               <hi>Firſt, God</hi> and <hi>Chriſt</hi> are ſaid to ſtand
+Related in a <hi>Pa<g ref="char:EOLhyphen"/>ternal Relation.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> They are ſaid to ſtand Related in a
+<hi>Conjugal Relation.</hi>
+            </p>
+            <p>
+               <hi>Firſt, God</hi> and <hi>Chriſt</hi> ſtand in a
+<hi>Paternal Relation</hi> to his People.</p>
+            <p>
+               <hi>Firſt, God</hi> is their <hi>Father,</hi> and they are his
+<hi>Sons</hi> and <hi>Daughters;</hi> And this the <hi>Church</hi> doth
+acknowledge in <hi>Iſai.</hi> 63.16. <hi>Doubtleſs thou art our Father,
+though</hi> Abraham <hi>be ignorant of us, and</hi> Iſrael <hi>acknowledge us
+not, thou O Lord art our Father,</hi> &amp;c. And with this the Lord comforted
+mourning Zion, <hi>Iſai.</hi> 49.14,15. <hi>But</hi> Zion <hi>ſaid, The
+Lord hath forſaken me, and my Lord hath forgotten me.</hi> But <hi>God</hi>
+ſayes, <hi>Can a Woman forget her ſucking Child, that ſhe ſhould not
+have Compaſſion on the Son of her womb? Yea, they may forget, yet I will
+not forget thee. Behold I have graven thee on the palms of my Hands,</hi>
+&amp;c. My abode is with thee.</p>
+            <p>
+               <hi>Secondly, Jeſus Christ</hi> is their <hi>Father,
+Iſai.</hi> 9.6. <hi>The everlaſting Father.</hi> Therefore he promiſeth
+his Diſciples in <pb facs="tcp:33666:12"/>this, 14. <hi>Joh.</hi> 18. <hi>I will not
+leave you,</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<hi>Orphans,</hi> or <hi>Fatherleſſe Children.</hi> He is the moſt
+affectionate tender hearted Father, <hi>Tam Pater nemo, tam pius nemo: None
+ſo good, none ſuch a Father as he,</hi> (<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Tertul.</hi>)</p>
+            <p>
+               <hi>Secondly, God</hi> and <hi>Chriſt</hi> ſtand related to
+them that keep his word, in a <hi>Conjugal relation;</hi> and <hi>God</hi> hath
+ſaid a ſpecial command of co-habitation upon perſons in this relation,
+<hi>The man muſt dwell with his own Wife.</hi>
+            </p>
+            <p>
+               <hi>Firſt, God</hi> is related as a <hi>Husband,</hi> And will
+not <hi>God</hi> dwell with his People, whom he hath eſpouſed to himſelf?
+<hi>I have betrothed thee unto me for ever,</hi> (Hoſea 2.19.) <hi>Yea I will
+betroth thee unto me in righteouſneſs, and in judgement, and in loving
+kindneſs, and in mercies; I will even betroth thee un<g ref="char:EOLhyphen"/>to me in
+faithfulneſs.</hi> And in <hi>Iſai.</hi> 54.5,6. <hi>For thy Maker is thy
+Husband,</hi> &amp;c. <hi>For the Lord hath called thee as a Woman
+forſaken,</hi> &amp;c.</p>
+            <p>
+               <hi>Secondly, Jeſus Chriſt</hi> is the <hi>Husband</hi> of his
+People, as we ſee in the whole Book of <hi>Canticles.</hi> And ſo in
+<hi>Ephe.</hi> 5. from the 29. Verſe to the end of the Chapter. Now where
+ſhall <hi>God</hi> and <hi>Chriſt</hi> make their abode, but with their
+eſpouſed Ones? Doth <hi>Jeſus Chriſt</hi> delight to lodge any where
+more than with the <hi>Wife</hi> of his boſome?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>3</label> 
+               <hi>Thirdly,</hi> Becauſe of
+<hi>Gods</hi> faithful Covenant, he will make his abode with them that keep his
+word. If we keep the word of his Patience, he will keep the word of his
+Pro<g ref="char:EOLhyphen"/>miſe, <hi>Revel.</hi> 3.10. <hi>Becauſe thou haſt kept the word of my
+Pati<g ref="char:EOLhyphen"/>ence, I alſo will keep thee, from the hour of temptation, which ſhall
+come on all the world, to try them that dwell upon the earth.</hi> It is called
+a word of Patience, becauſe it teacheth patience, and eſpecially becauſe
+it requires it in all them that will obſerve it. And this is <hi>Gods</hi>'s
+<hi>Covenant.</hi> Now, what is the Covenant? <hi>Jerem.</hi> 32.40. <hi>And I
+will make an everlaſting Covenant with them, that I will not turn away from
+them, to do them good; but I will put my fear in their hearts, that they
+ſhall not depart from me;</hi> and ſuch a ſure and infallible promiſe
+of abode, can never be violated by a <hi>God-keeping</hi> Covenant; <hi>God may
+hide for a moment, turn away in a little wrath from his people</hi> (Iſa.
+54.8.9.10.11.) <hi>but with great mercy will he gather them, and ſhew them
+everlaſting kindneſs;</hi> Yea, his Promiſe ſhall be as the waters of
+<hi>Noah,</hi> that as the waters of the great <hi>Deluge</hi> ſhall never
+co<g ref="char:EOLhyphen"/>ver <pb facs="tcp:33666:12"/>the world any more, ſo he will never forſake his people
+utterly. It ſhall be more poſſible for the Mountains to de<g ref="char:EOLhyphen"/>part, and the
+Hills to be removed, than that he ſhould fi<g ref="char:EOLhyphen"/>nally depart from <hi>His.</hi>
+The frame of the world may be diſ<g ref="char:EOLhyphen"/>ordered, but the frame of <hi>Gods</hi>
+heart towards his People, can never be changed. When the men of the world think
+<hi>God</hi> hath forſaken them, he is near to them, and cannot caſt off
+his people; He may ſometimes give them up for their ſinnes into the enemies
+hands, but cannot give them away: this gave the <hi>Church</hi> that
+confidence, in <hi>Micah</hi> 7.8. <hi>Rejoyce not againſt me, O mine Enemy;
+when I fall, I ſhall ariſe, when I ſit in darkneſs, the Lord ſhall be
+a light unto me.</hi> And this did bear the head of the
+<hi>New-Teſtament-Saints</hi> above wa<g ref="char:EOLhyphen"/>ter, 2 <hi>Cor.</hi> 4.8.9. <hi>We are
+troubled on every ſide, yet not di<g ref="char:EOLhyphen"/>ſtreſſed; we are perplexed, but not
+in diſpair; perſecuted, but not forſaken; caſt down, but not
+deſtroyed.</hi> And whence is it, that <hi>Diſtreſs</hi> doth not follow
+<hi>Troubles? Despair</hi> our <hi>Per<g ref="char:EOLhyphen"/>plexities? Deſertion</hi> our
+<hi>Perſecutions? Deſtruction</hi> our <hi>ſad Dejections?</hi> ſure it
+is, becauſe <hi>God is faithful,</hi> alwayes with us, <hi>and will not
+ſuffer us to be tempted above what we are able to bear,</hi> &amp;c.<note place="margin">1 Cor. 10.13.</note>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Partic. </seg>3</label> 
+               <hi>Thirdly,</hi> What a
+ſpecial bleſſing it is, to a perſon, or peo<g ref="char:EOLhyphen"/>ple, to have <hi>God</hi>
+and <hi>Chriſt</hi> to make their abode with them.</p>
+            <p>The excellency and deſirableneſs of this abode of <hi>God</hi>
+and <hi>Chriſt</hi> with Believers, may be ſeen in theſe three
+parti<g ref="char:EOLhyphen"/>culars.</p>
+            <p>
+               <hi>Firſt,</hi> It is better than all outward mercies, and
+earthly bleſſings.</p>
+            <p>
+               <hi>Secondly,</hi> This will more than ſupply the want or
+abſence of all other comforts.</p>
+            <p>
+               <hi>Thirdly,</hi> All our happineſs doth lye in this, <hi>Gods
+preſence with us.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>1</label> 
+               <hi>Firſt,</hi> The abode of
+<hi>God</hi> and <hi>Chriſt</hi> with a ſoul, is better than all outward
+mercies, or earthly bleſſings whatſoever. <hi>God</hi> was wont to tell
+his people heretofore, as in <hi>Deut.</hi> 28. <hi>That if they would keep his
+Commandments, they ſhould be bleſſed in their basket, and in their
+ſtore; that he would give them peace, the fat heritage of</hi> Jacob, <hi>and
+to ride upon the high places;</hi> all goodly mercies: But now he doth
+encou<g ref="char:EOLhyphen"/>rage <pb facs="tcp:33666:13"/>them by a bleſſing of far greater worth, <hi>I will
+love you, I will make mine abode with you.</hi> It is ſo high and
+tran<g ref="char:EOLhyphen"/>ſcendent a favour, That <hi>Moſes</hi> preferr'd it, before that
+goodly Land of promiſe, <hi>Canaan,</hi> the Land flowing with Milk and Hony,
+as appears by that paſſage in <hi>Exod.</hi> 33.15. <hi>If thy preſence
+go not with me, carry us not up hence.</hi> Though <hi>Canaan</hi> be never
+ſo deſirable a good Land, Yet rather let me abide in this vaſt-howling
+Wilderneſſe with God, then go without thy preſence thither. A
+Wilderneſſe Conditi<g ref="char:EOLhyphen"/>on with <hi>God</hi> in the <hi>Tent,</hi> is better
+then all Pleaſures and Honours without God in the <hi>Palace.</hi> Hence
+<hi>David</hi> in the midſt of all his Royal Pompe, and Greatneſſe,
+deſired this, as the Complement and Perfection of all, <hi>Pſal.</hi>
+101.1.2. <hi>O when wilt thou come unto me.</hi>
+            </p>
+            <p>Conſider theſe two particulars.</p>
+            <p>
+               <hi>Firſt,</hi> That there is not beauty, nor
+deſirableneſſe in the faireſt outward proſperity, if <hi>God</hi> and
+<hi>Chriſt</hi> do not make their abode with us. If we have all the world,
+and cannot ſee the abode of <hi>God</hi> and <hi>Chriſt</hi> on our
+Tabernacle, in their ſpecial Providence, in Soul refreſhing Ordinances, or
+by the Comforting Spirit; We may look on all, and ſay as <hi>Hiram</hi> did
+of the Cities <hi>Solomon</hi> gave him, they be <hi>Cabul, Dirty
+things.</hi>
+               <note place="margin">1 Kings 9.13.</note> If we cannot find
+<hi>God</hi> and <hi>Chriſt</hi> thus with us, in the midſt of our Glory,
+<hi>The Glory is departed.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Conſider, There is no miſery, nor
+unhappi<g ref="char:EOLhyphen"/>neſſe in the worſt afflictions, if <hi>God</hi> and
+<hi>Chriſt</hi> be there; in the <hi>Furnace</hi> there is no <hi>Death;</hi>
+in <hi>Captivity,</hi> no <hi>Darkneſſe;</hi> in <hi>Priſon,</hi> no
+<hi>Sadneſſe;</hi> in <hi>Death,</hi> no <hi>Hell. Jeſus Chriſt</hi>
+tells us, <hi>he will not leave us Comfortleſſe;</hi> he never told us we
+ſhould not meet with Tribulations, but ſayes, <hi>In the world we ſhall
+have Tribulation,</hi> and as ſurely, <hi>that in him, we ſhall have
+Conſolation.</hi> His people may be in the world Friendleſſe,
+Harbourleſſe, Pennyleſſe, but he aſſures them, they ſhall never
+be Comfortleſſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Partic. </seg>2</label> 
+               <hi>Secondly,</hi> This abode
+of <hi>God</hi> and <hi>Chriſt</hi> with his people, will more then ſupply
+the want or abſence of all other things. <hi>Jeſus Chriſt,</hi> when he
+would throughly encourage his Diſciples againſt all the hardſhips, and
+diſcouraging fears, they might meet withall after his departure, gives them
+this one precious <hi>Cordial,</hi> or <hi>Catholicon,</hi> in <hi>Mat.</hi>
+28.20. <pb facs="tcp:33666:13"/>
+               <hi>Loe I am with you alway, even unto the end of the
+World, when you are caſt out of the Synagogues, had before Magiſtrates and
+Rulers for my name ſake, Scourged, Hated, Impriſoned; for all theſe
+things ſhall they do unto you, Let this comfort you; Loe, I am with you
+alway, to the end of the World.</hi>
+            </p>
+            <p>Indeed, This abode of <hi>God</hi> and <hi>Chriſt</hi> with his
+people, is every thing to the Soul, which we may ſee in theſe three
+particulars.</p>
+            <p>
+               <hi>Firſt,</hi> Their preſence is <hi>a Sanctuary, and ſure
+Hide-ing place.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> It is <hi>a ſure Light and Guide to
+them.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> It is a <hi>Store-houſe and Treaſury of all
+Provi<g ref="char:EOLhyphen"/>ſions.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>Firſt,</hi> The abode or
+preſence of <hi>God</hi> and <hi>Chriſt,</hi> is in<g ref="char:EOLhyphen"/>ſtead of a
+<hi>Sanctuary, or ſure hideing place;</hi> as <hi>Pſal.</hi> 84.11. <hi>For
+the Lord God is a Sun and Shield, &amp;c.</hi> and in <hi>Iſai.</hi> 8.13.
+ſayes the Prophet, <hi>Sanctifie the Lord God of Hoſts, and let him be your
+fear, and let him be your dread, and he ſhall be for a Sanctuary:</hi> Do you
+ſet <hi>God</hi> before you, and he will ſet himſelf by you; and where
+the great <hi>God goes,</hi> there <hi>goes a Guard of Angels,</hi> Pſal.
+34.7. <hi>His Wings be a Covert, and his hand a Canopy, with which he hides
+from the Storm, and from Rain.</hi>
+            </p>
+            <p>And that he is a mighty Saviour.</p>
+            <p>
+               <hi>Firſt,</hi> Conſider his <hi>Omnipotency;</hi> He can do
+whatever pleaſeth him; He can make <hi>the worm Jacob to threſh Moun<g ref="char:EOLhyphen"/>tains,
+and the Mountains to become a plague before Jerubba<g ref="char:EOLhyphen"/>bel;</hi> Zach. 4.7.
+<hi>All the Nations of the Earth are but as a drop of the Bucket, or duſt of
+the Ballance, compared with him; and all hearts are in his hands;</hi>
+Therefore ſayes the Prophet, in <hi>Iſai.</hi> 26.4. <hi>Truſt in the
+Lord for ever, for in the Lord</hi> Jeho<g ref="char:EOLhyphen"/>vah, <hi>is everlaſting ſtrength,
+or the</hi> Rock <hi>of ages.</hi> He is no broken Reed, but that ſtrength in
+which we may Confide; As <hi>David</hi> ſayes, <hi>Pſal.</hi> 46.1,2,3. Si
+fractus illabitur Or<g ref="char:EOLhyphen"/>bis, <hi>If the World be diſſolved, God is our refuge
+and ſtrength,</hi> &amp;c. <hi>therefore we will not fear, though the Earth
+be removed, and though the Mountains be carried into the midſt of the
+Sea,</hi> &amp;c.</p>
+            <p>
+               <hi>Secon<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly,</hi>
+Conſider his imme<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tability; We
+have ſtand<g ref="char:EOLhyphen"/>ing Comfort in the unchangeableneſſe of this <hi>God,</hi>
+Mal. 3.6. <pb facs="tcp:33666:14"/>
+               <hi>I am the Lord, I change not; therefore ye Sons of
+Jacob are not conſumed.</hi> And for this we have the experience of
+<hi>Da<g ref="char:EOLhyphen"/>vid, Pſal.</hi> 9.10. <hi>They that know thy name, will put their
+truſt in thee, for thou (Lord) haſt not forſaken them that ſeek
+thee,</hi> and the Churches experience, <hi>Iſai.</hi> 63.9. <hi>he bear
+them, and he carried them all the daies of old.</hi> This great and
+unchangeable <hi>Saviour,</hi> ſaves his people, theſe four wayes.</p>
+            <p>
+               <hi>Firſt,</hi> He will ſave and preſerve from Evils, and
+will be a Chamber of ſafety when the Indignation is abroad, to hide from the
+ſtorm; <hi>Ezek.</hi> 11.6. <hi>Yet will I be to them as a little Sanctuary
+in the Countries where they ſhall come, I will be with thee;</hi> is
+<hi>Gods</hi> great <hi>Promiſe,</hi> and his <hi>Peoples Se<g ref="char:EOLhyphen"/>curity;</hi> it
+was <hi>Joſhua's</hi> Guard, and <hi>Jeremiah's</hi> Braſen-Wall.</p>
+            <p>
+               <hi>Secondly,</hi> He will ſave his people in afflictions; as he
+did the three Children in the burning Fornace, thus he de<g ref="char:EOLhyphen"/>livers <hi>in ſix
+troubles, and alſo in ſeven;</hi> as 'tis promiſed in <hi>Iſai.</hi>
+43.2,3. <hi>When thou paſſeſt thorough the waters I will be with thee and
+thorow the Rivers, they ſhall not overflow thee; When thou walkeſt thorow
+the fire, thou ſhalt not be burnt, neither ſhall the flame kindle upon
+thee, For I am the Lord thy God, the Holy one of Iſrael, thy Saviour.
+Job's</hi> experience is an everlaſting proof of this, that when the Lead is
+Conſumed, the Gold is preſerved in the Fornace.</p>
+            <p>
+               <hi>Thirdly,</hi> He will ſave or deliver out of afflictions, 1
+<hi>Cor.</hi> 10, 13. <hi>In the midſt of all temptations, he will make a way
+for us to eſcape them, Many are the troubles of the Righte<g ref="char:EOLhyphen"/>ous, but the Lord
+delivereth them out of all.</hi> He is <hi>Emmanu<g ref="char:EOLhyphen"/>el, God</hi> with us; Our
+Redeemer from Hell, and from Trou<g ref="char:EOLhyphen"/>ble.</p>
+            <p>
+               <hi>Fourthly,</hi> He will ſave by afflictions, and by the evils
+they meet withall; <hi>Prov.</hi> 29.15. <hi>The Rod and Reproof give
+wiſdom;</hi> and as <hi>David</hi> ſayes, <hi>It was good for me that I was
+afflicted.</hi> All things ſhall work for good, 2 <hi>Cor.</hi> 4.7.
+<hi>Theſe afflictions work for us a far more exceeding and eternal weight of
+Glory.</hi> The Veſſel is uſually covered with Dirt by the Clenſers
+hand, that it may ſhine with the more brightneſs; So by afflictions
+<hi>God</hi> makes us partakers of his Holineſs.</p>
+            <p>Afflictions and outward evils, come alike to all, but with much
+different effect; All men fall into afflictions, Good and Bad, but as the
+<hi>Iſraelites,</hi> and the <hi>Egyptians</hi> went both <pb facs="tcp:33666:14"/>into
+the <hi>Red Sea,</hi> and the one was drowned, and the o<g ref="char:EOLhyphen"/>ther paſſed
+throrough to <hi>Canaan:</hi> So the Righteous and the Wicked fall under
+Calamity, the one ſinks through unbelief, and the other paſſes thorough
+ſafety, <hi>and by Faith and Pa<g ref="char:EOLhyphen"/>tience comes to inherit the
+promiſe.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>Secondly,</hi> The Abode or
+Preſence of <hi>God</hi> and <hi>Chriſt</hi> with Believers, is inſtead
+of a ſure Guide and Light unto them; They can never want a Guide, who have
+<hi>God</hi> with them. As the Pillar of a Cloud by day, and of Fire by night,
+was unto <hi>Iſrael</hi> in all their March, The ſame and more is
+<hi>God</hi> to his People, in all their Pilgrimage.</p>
+            <p>
+               <hi>Conſider three things.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Conſider, that Man cannot be without this
+Guide; The beſt of men have very great need of the pre<g ref="char:EOLhyphen"/>ſence of
+<hi>God</hi> to lead them; that they be not miſ-led, and that they don't
+faint in the way, <hi>What can the Sheep do with<g ref="char:EOLhyphen"/>out a Shepheard?</hi> Such is
+<hi>God</hi> to his, <hi>Pſal.</hi> 23.1. without <hi>Gods</hi> abode with
+us, 'tis as Children without a Father, and none to direct them, and ſo left
+to run themſelves into miſ<g ref="char:EOLhyphen"/>chief; What is the World without a Sun?
+<hi>Jer.</hi> 10.23. <hi>The way of man is not in himſelf, it is not in man
+that walketh to direct his ſteps.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Conſider, that 'tis our great wiſdom to
+commit our way to the guidance of this <hi>God</hi> and <hi>Chriſt;</hi>
+Every wiſe man will commit his way to <hi>God,</hi> and not move a ſtep
+without him; as <hi>Moſes</hi> in the Conduct of <hi>Iſrael,</hi> would not
+move a foot without <hi>God.</hi> That was a good Petition, or rather
+Reſolution of <hi>David,</hi> in <hi>Pſal.</hi> 73.24. <hi>Thou ſhalt
+guide me with thy Counſel, and afterward receive me to Glory.</hi> I am
+reſolved to be guided by <hi>Gods Counſel,</hi> and an excel<g ref="char:EOLhyphen"/>lent and
+imitable practiſe of <hi>Iſaac,</hi> in <hi>Gen.</hi> 26.24,25. that where
+he had met <hi>God</hi> at <hi>Beer-ſheba,</hi> and where <hi>God</hi> had
+bleſſed him, There he pitched his Tent; So we ſhould move as <hi>God</hi>
+leads.</p>
+            <p>
+               <hi>Thirdly,</hi> Conſider, That if <hi>God</hi> undertake to
+Guide us, we ſhall not miſcarry, he will certainly bring us ſa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to Heaven. Our feet may be almoſt
+gone, but ſhall not be altogether gone, <hi>Pſal.</hi> 73.2. <hi>My feet
+were almoſt gone, my ſteps had well nigh ſlipt.</hi> So it may be with
+the choiceſt of <hi>Gods</hi> Servants; but in the 23 <hi>verſe,
+Nevertheleſſe I am <pb facs="tcp:33666:15"/>continually with thee; thou haſt holden
+me by my right hand.</hi>
+            </p>
+            <p>The more dark and dangerous the times be, the more we ſhould
+deſire <hi>Gods</hi> abode with us; the nearer a night of trouble or of death
+is to us, the more earneſtly beg his ſtay, as the two <hi>Diſciples,
+Luke</hi> 24.29. <hi>They conſtrained Chriſt, ſaying, abide with us, for
+it is towards Evening, and the day is far ſpent.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>Thirdly,</hi> The abode or
+preſence of <hi>God</hi> and <hi>Chriſt</hi> with his people, is inſtead
+of a Treaſury and Store-houſe of all Proviſions. Where <hi>Jeſus
+Chriſt</hi> is, and where <hi>God</hi> makes his abode, there is a Spring
+head of comforts, that cannot be drawn dry, <hi>Iſa.</hi> 33.16. <hi>Bread
+ſhall be given them, and their waters ſhall be ſure, who have God with
+them;</hi> So was <hi>God</hi> to <hi>Iſrael, Deut.</hi> 29.5.6. <hi>He fed
+Iſrael in the wilderneſs forty years, their clothes did not wax old. You
+have not eaten bread, neither have you drunk wine, or ſtrong drink, that ye
+might know that I am the Lord your God.</hi>
+            </p>
+            <p>
+               <hi>Conſider three particulars here.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Conſider <hi>God is ſuch a ſtore,</hi>
+that he is alwayes full; He hath an <hi>Antarchy</hi> in himſelf, and ſaies
+to his crea<g ref="char:EOLhyphen"/>tures, as in <hi>Pſal.</hi> 81.10. <hi>Open thy mouth wide, and I
+will fill it, ask what you will, and there 'tis to be had.</hi> There be full
+Treaſures, of temporal and ſpiritual good things with them, with whom
+<hi>God</hi> and <hi>Chriſt</hi> do make their abode. As the <hi>Ark</hi> of
+<hi>God</hi> brought all kind of bleſſings to the houſe of
+<hi>Obed-edom,</hi> ſo when <hi>God</hi> comes, he brings all things;
+<hi>Deus meus, &amp; omnia;</hi> My <hi>God,</hi> and all things. When
+<hi>Jeſus Chriſt</hi> came to <hi>Zacheus,</hi> he tells him, <hi>This day
+is Salvation come to thine houſe;</hi> that is, both temporal and ſpiritual
+pre<g ref="char:EOLhyphen"/>ſervations and deliverances; Salvation doth conſiſt in the total
+abſence of all evil, and in the preſence and poſſeſſion of all
+good.</p>
+            <p>
+               <hi>Secondly, God</hi> and <hi>Chriſt</hi> have left with us the
+promiſes of the Covenant to live upon, till we come to the inheritance of the
+purchaſed Poſſeſſion: Theſe be like the <hi>Widows Cruſe,</hi>
+that never fails; this like the <hi>Manna,</hi> will not be with-held while we
+be in the wilderneſs, till we come into <hi>Canaan,</hi> to feed on the
+fruits of that Land, <hi>Heb.</hi> 13.5. That's a ſure Promiſe, in which we
+may by faith ſee preſent ſupplies, <hi>I <pb facs="tcp:33666:15"/>will never leave
+thee, nor forſake thee;</hi> and in <hi>Phil.</hi> 4.19. we may
+poſſeſſe in that Promiſe whatever we want; <hi>My God ſhall
+ſupply all your need, according to his riches in glory, by Chriſt
+Jeſus.</hi>
+            </p>
+            <p>
+               <hi>Thirdly, God</hi> hath given us his <hi>Son,</hi> and
+<hi>Jeſus Chriſt</hi> hath given us <hi>himſelf,</hi> as an enſuing
+pledge of all mercies con<g ref="char:EOLhyphen"/>tained in the promiſes, <hi>Rom.</hi> 8.32. <hi>He
+that ſpared not his own Son, but gave him for us, how ſhall he not with him
+alſo freely give us all things;</hi> He that hath not ſpared his Son, will
+not with-hold any mercies; he that hath given us the beſt of bleſſings,
+will not with-hold ſmaller mercies: He doth al<g ref="char:EOLhyphen"/>way tell his people, as in 2
+<hi>Cor.</hi> 12.9. <hi>My grace is ſufficient for you.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>Thirdly,</hi> The abode of
+<hi>God</hi> and <hi>Chriſt</hi> with Believers, is their Heaven upon Earth.
+All our happineſs is in the abode of <hi>God</hi> and <hi>Chriſt</hi> with
+us.</p>
+            <p>
+               <hi>Firſt,</hi> Conſider it is a wonderful mercy of the great
+<hi>God,</hi> that by his common Providence, he is with the works of his hands,
+which is mans ſafety; and <hi>David</hi> admires at this, <hi>Pſal.</hi>
+8.4. <hi>Lord what is man, that thou art mindful of him? and the Son of man,
+that thou viſiteſt him?</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Conſider it is a mercy of the greateſt
+worth, and to be for ever admired, that <hi>God</hi> and <hi>Chriſt</hi> do
+not only viſit us by common Providence and Inſpection, as his crea<g ref="char:EOLhyphen"/>tures,
+but make their abode with us, as with children and friends; O this is our
+glory; <hi>God</hi> doth not come with a ſhort viſit, for a day, for a few
+days, <hi>but makes an ever<g ref="char:EOLhyphen"/>laſting abode.</hi> The Church complained when
+ſhe thought <hi>God</hi> was departed, becauſe he had been with them, and
+made ſo ſhort a ſtay, <hi>Jer.</hi> 14.8. <hi>Why ſhouldſt thou be as
+a ſtranger in the Land, and as a way-faring man, that turneth aſide to
+tarry for a night,</hi> &amp;c. but when ſhe remembred the Cove<g ref="char:EOLhyphen"/>nant of
+eternal abode, ſhe comforts her ſelf, in the 9. <hi>verſe. Yet thou O
+Lord art in the midſt of us.</hi> To be ever with the <hi>Lord,</hi> is all
+we can hope for, and it is mans contemplative happineſſe, to converſe in
+his thoughts with that Glory.</p>
+            <p>
+               <hi>Firſt,</hi> Conſider <hi>Jeſus Christ</hi> hath
+promiſed this, as our great Glory, and full reward; <hi>I will take you to my
+ſelf, they ſhall behold my glory.</hi>
+               <note place="margin">17. Joh. verſe
+24.</note> 1 Epiſt. Joh. 3.2. <hi>We ſhall be like him,
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> we ſhall ſee him as he
+is.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:33666:16"/>
+               <hi>Secondly,</hi> This abode with <hi>God</hi> and
+<hi>Chriſt,</hi> is the higheſt <hi>option,</hi> and aim of all the people
+of <hi>God.</hi> This was <hi>Pauls</hi> preſſings, in <hi>Phil.</hi> 3.
+<hi>That he might attain to the reſurrection of the dead, (i.)</hi> the
+ſtate of them that are riſen, and with <hi>God</hi> and <hi>Chriſt;</hi>
+Therefore reſolves after a long debate with himſelf, <hi>Phil.</hi> 1.21.
+<hi>To be with Chriſt, is beſt of all,</hi> and <hi>Da<g ref="char:EOLhyphen"/>vid</hi> in
+<hi>Pſal.</hi> 73. at the latter end, profeſſes, <hi>He had none in
+Heaven but God, and there was none upon earth that he deſired in compariſon
+of him.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>1</label> Uſe. <hi>Firſt,</hi> of
+<hi>Lamentation, and laments three ſorts of perſons.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Let us lament <hi>ſuch as be without</hi> God
+<hi>and</hi> Chriſt <hi>in the world,</hi> all <hi>ignorant</hi> and
+<hi>ungodly</hi> perſons; yea, this is the ſad caſe of all the
+<hi>Sons</hi> of <hi>Adam,</hi> ever ſince he ſinned, and loſt communion
+with his <hi>God;</hi> They be brought forth into the world, with their
+<hi>backs</hi> upon <hi>God,</hi> and with <hi>Gods face</hi> againſt them:
+What was <hi>Cain</hi>'s grief? how was his heart hurried into a world of
+inconceivable diſtempers, and diſtracting thoughts? when he muſt be
+turn'd out of <hi>Gods</hi> preſence, from the enjoyment of <hi>God</hi> in
+his <hi>Ordinances, Gen.</hi> 4.14. <hi>Behold, thou haſt driven me out this
+day,</hi> (ſaies poor <hi>Cain,</hi>) <hi>from the face of the earth,</hi>
+(but this is as no<g ref="char:EOLhyphen"/>thing) <hi>and from thy face ſhall I be hid,</hi> (and now
+where is my comfort and ſafety?) <hi>it ſhall come to paſſe, that every
+one that findeth me, ſhall ſlay me.</hi> Such perſons be as Lambs in a
+large place, <hi>Hoſ.</hi> 4.16. <hi>Without a Keeper in their moſt
+plen<g ref="char:EOLhyphen"/>tiful state;</hi> What hope have ſuch to eſcape <hi>Hell</hi> and
+<hi>De<g ref="char:EOLhyphen"/>ſtruction?</hi>
+            </p>
+            <p>
+               <hi>Conſider theſe two particulars.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Conſider it is a very ſad caſe, when
+<hi>God</hi> and <hi>Chriſt</hi> withdraw, or depart but for a moment; 'tis a
+ſad, and into<g ref="char:EOLhyphen"/>lerable <hi>moment,</hi> as we ſee in the complaint of
+<hi>Chriſt,</hi> when <hi>God</hi> withdrew himſelf from him; <hi>My God,
+my God, why haſt thou forſaken me?</hi> and in the example of <hi>David,
+Aſaph</hi> and <hi>Heman,</hi> in <hi>Pſal.</hi> 77. and <hi>Pſal.</hi>
+88. and the whole <hi>Church</hi> laments in <hi>Jer.</hi> 14.8.</p>
+            <p>
+               <hi>Secondly,</hi> Conſider if <hi>God</hi> and
+<hi>Chriſt</hi> do never come to make their abode with us here, we are never
+like to make our abode <hi>with them hereafter;</hi> and then it were better we
+had never been born, <hi>Pſal.</hi> 73.27. <hi>They that are far from 
+<pb facs="tcp:33666:16"/>thee, ſhall periſh.</hi> And this is Hell, to be ſeparated
+from <hi>God</hi> and <hi>Chriſt,</hi> 2 <hi>Theſ.</hi> 1.8.9. They,
+<hi>(i.)</hi> the <hi>wicked</hi> ſhall be puniſhed with everlaſting
+deſtruction, from the preſence of the <hi>Lord,</hi> and from the glory of
+his power. It is <hi>Heaven</hi> where-ever <hi>God</hi> is in his ſpecial
+abode, and that is <hi>Hell</hi> where He is not preſent in his mercy and
+grace.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>Secondly, Uſe of
+Lamentation.</hi>
+            </p>
+            <p>Let us <hi>lament</hi> over a <hi>worſe ſort of men,</hi> and
+they be ſuch as in <hi>Job.</hi> 21.14. <hi>That ſay to God, depart from
+us, for we deſire not the knowledge of thy wayes;</hi> That refuſe the word
+of <hi>Chriſt,</hi> and be weary of <hi>God</hi> and his <hi>Ordinances,</hi>
+and ſo reject <hi>God.</hi> as if one houſe could not hold them both; as
+the peo<g ref="char:EOLhyphen"/>in <hi>Iſa.</hi> 30.10.11. <hi>Who ſay to the Seers, ſee not; and
+to the Prophets, prophecy not,</hi> &amp;c. <hi>Cauſe the Holy one to ceaſe
+from be<g ref="char:EOLhyphen"/>fore us.</hi> They that ſtop the mouths of them that ſpeak the word
+of <hi>Chriſt,</hi> or turn away their ears from harkening to that which is
+ſpoken, ſay in effect, <hi>Let God be gone, let Chriſt depart from
+us.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Conſider what an evil frame of
+<hi>ſpirit</hi> it is, for men to refuſe the preſence of <hi>God.</hi>
+Was there ever wickedneſs like this? that the great <hi>God</hi> ſhould be
+as an <hi>unbidden gueſt</hi> with his own creatures, and have no better
+entertainment than <hi>Chriſt</hi> with the <hi>Gaderens,</hi> who beſought
+him to de<g ref="char:EOLhyphen"/>part out of their Coaſt, yea, which is far worſe,
+<hi>rejected,</hi> as <hi>Chriſt</hi> was by the poſſeſſed in the
+<hi>Goſpel, Mat.</hi> 8.29. <hi>What have we to do with thee? art thou come
+to torment us before the time?</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Conſider it will be a very terrible day, when
+<hi>God</hi> and <hi>Chriſt</hi> depart from ſuch perſons. <hi>God</hi>
+threatens it as a ſore judgement upon <hi>Jeruſalem, Jer.</hi> 6.8. <hi>Be
+thou in<g ref="char:EOLhyphen"/>ſtructed O</hi> Jeruſalem, <hi>leſt my Soul depart from
+thee;</hi> When <hi>God</hi> departs, in comes all Judgements, for it follows
+in the Text, <hi>Leſt I make thee deſolate;</hi> Deſolation comes as
+ſoon as <hi>God</hi> is gone, yea, ſaies the <hi>Lord, Hoſ.</hi> 9.12.
+<hi>Woe to them, when I depart from them.</hi> And though he depart from ſuch
+by removing his <hi>Counſells, Goſpel,</hi> and <hi>Ordinances:</hi> He
+will ſtill be with them in <hi>judgement;</hi> when he is far from their
+<hi>Affections,</hi> he will be nigh to their <hi>Conſciences,</hi> then he
+will ſhew his terrour, and his wrath; and then they ſhall find, that as
+there is not a <hi>ſweeter promiſe</hi> than this, <hi>I will never 
+<pb facs="tcp:33666:17"/>leave thee nor forſake thee;</hi> ſo not a more <hi>terrible
+judgement</hi> than this, <hi>I will not love thee, nor abide with
+thee.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, <hi>Uſe of
+Lamentation.</hi>
+            </p>
+            <p>Let us lament our ſelves, who have had <hi>God</hi> and
+<hi>Chriſt</hi> making their abode with us for many years in their ſpecial
+<hi>Providence, Gospel Ordinances,</hi> &amp;c. Yet we have not im<g ref="char:EOLhyphen"/>proved ſo
+glorious a <hi>Preſence,</hi> ſo rich a mercy: eſpecially we have cauſe
+to lament this four-fold neglect.</p>
+            <p>
+               <hi>Firſt,</hi> That we have ſo little acquainted our ſelves
+with <hi>God</hi> and <hi>Chriſt,</hi> ſo little prized and obſerved
+their <hi>Preſence</hi> with us, that we have learn'd no more of <hi>God</hi>
+and <hi>Chriſt,</hi> but are yet ſtrangers to them; ſo that <hi>Jeſus
+Chriſt</hi> may ſay to us, as in <hi>Joh.</hi> 14.9. <hi>Have I been ſo
+long time with you, and yet haſt thou not known me, Philip;</hi> ſo he may
+ſay to us, Have I been ſo long time with you in my <hi>Providences,
+Ordinances, and by my Spirit,</hi> and yet have you not known my
+<hi>Goodneſs,</hi> my <hi>Faithfulneſs,</hi> my <hi>Name,</hi> my
+<hi>Laws</hi> and <hi>Ordinances?</hi> Sure it is with moſt of us, as with
+<hi>Jacob, Gen.</hi> 28.15.16. The <hi>Lord</hi> was with him, and he was in
+his Dream, and when he awaked, he ſaid, <hi>Surely the Lord is in this place,
+and I knew it not.</hi> So <hi>God</hi> hath been with us, but we have been in
+a dream, or in a ſleep all this while; but when <hi>God</hi> ſhall a<g ref="char:EOLhyphen"/>waken
+us, we ſhall ſay with him, <hi>God was in this place, and we knew it
+not.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> We may lament our ſelves that we have ſo
+little conformed to <hi>God</hi> and <hi>Chriſt. God</hi> hath been with us,
+but we have refuſed his company, as <hi>Ephe.</hi> 2.12. <hi>And had our
+converſation as without God, and without Chriſt in the world;</hi> O when
+<hi>God</hi> and <hi>Chriſt</hi> ſhall depart from us, it will be a
+heart-breaking to us, and we ſhall dearly repent the leaſt
+miſcarriages.</p>
+            <p>
+               <hi>Thirdly,</hi> We may lament, that we have not lived more upon
+<hi>God</hi> and <hi>Chriſt,</hi> to truſt in them, and depend upon them
+for life and Salvation, and made him our <hi>Counſellour, Guide,</hi> and
+<hi>Strength,</hi> and lived upon his All-ſufficiency; we have not made them
+our <hi>Sanctuary,</hi> our <hi>Treaſury,</hi> our <hi>Hap<g ref="char:EOLhyphen"/>pineſs,</hi>
+though they have been with us, <hi>in whom are all things.</hi> Yet have we
+lived at ſo poor a rate (as to our ſpi<g ref="char:EOLhyphen"/>ritual comforts) as if we had been
+under the <hi>Hypocrit's</hi> Curſe, <hi>Job</hi> 20.22. <hi>In the fulneſs
+of his ſufficiency he is in <pb facs="tcp:33666:17"/>ſtraits,</hi> Or guilty of that
+vanity mentioned in <hi>Eccle.</hi> 6.2. <hi>To have Riches and Honours.</hi>
+&amp;c. <hi>and not a heart to uſe them.</hi> To have a <hi>God</hi> and
+<hi>Chriſt,</hi> in whom are all <hi>Riches</hi> and <hi>Ho<g ref="char:EOLhyphen"/>nours,</hi> and
+have had no <hi>Faith</hi> to uſe them for our <hi>comfort,</hi> we have even
+ſtarved our ſelves at the fulleſt Table, and Spring-head of plenty.</p>
+            <p>
+               <hi>Fourthly,</hi> We may lament our ſelves, that we have not
+taken more pleaſure in the enjoyment of <hi>God</hi> and <hi>Chriſt</hi> in
+the <hi>Goſpel,</hi> and <hi>Goſpel Ordinances;</hi> accounting all
+Compa<g ref="char:EOLhyphen"/>ny and delights, ſolitarineſſe, in compariſon of the joy and
+comfort that is in the abode of <hi>God</hi> and <hi>Chriſt;</hi>
+eſpecially, when <hi>God</hi> expects we ſhould rejoyce in him, and hath
+pro<g ref="char:EOLhyphen"/>miſed to abode with ſuch, <hi>Iſai.</hi> 64.5. <hi>Thou meeteſt him
+that rejoyceth, and worketh Righteouſneſſe, and remembreth thee in thy
+wayes.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>2</label> 
+               <hi>Two Uſes of
+Exhortation.</hi>
+            </p>
+            <list>
+               <item>1. <hi>To get the Preſence of</hi> God <hi>and</hi>
+Chriſt <hi>with us.</hi>
+               </item>
+               <item> 2. <hi>To endeavour to keep</hi> God <hi>and</hi> Chriſt
+<hi>abiding with us.</hi>
+               </item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>The firſt</hi> Uſe of
+Exhortation.</p>
+            <p>Let us be Exhorted above all deſires, to deſire <hi>Gods</hi>
+pre<g ref="char:EOLhyphen"/>ſence; and above all getting, Get <hi>God</hi> and <hi>Chriſt</hi> to
+make their abode with you. O with what Ardency and heat of deſire, doth
+<hi>David</hi> expreſſe himſelf; <hi>Pſal.</hi> 27.4. <hi>One thing
+have I deſired of the Lord, that will I ſeek after, that I may dwell in the
+houſe of the Lord all the dayes of my life, to behold the beauty of the Lord,
+and to enquire in his Temple;</hi> and ſo in <hi>Pſal.</hi> 42.1,2. <hi>As
+the Hart pants after the water brooks, ſo panteth my Soul after thee O God,
+My Soul thirſteth for God, when ſhall I come and appear before God? O when
+wilt thou come unto me?</hi> and in a multitude of ſuch like
+<hi>Pathetick</hi> breathings after <hi>God.</hi>
+            </p>
+            <p>And that we may the more earneſtly deſire this mercy, the
+<hi>abode</hi> of <hi>God</hi> and <hi>Chriſt</hi> with <hi>us;</hi>
+Conſider three par<g ref="char:EOLhyphen"/>ticulars.</p>
+            <p>
+               <hi>Firſt,</hi> Conſider, the preſence of <hi>God</hi> and
+<hi>Chriſt,</hi> is the ſpecial favour and honour that <hi>God</hi>
+beſtows only upon his own people. By this was <hi>Iſrael</hi>
+diſtinguiſhed from all the world, <hi>Exod.</hi> 33.16. <hi>My preſence
+ſhall go with thee,</hi> and in the laſt <hi>verſe</hi> of the laſt
+<hi>Chapter</hi> of <hi>Ezekiel. It is the Church only that is call'd</hi>
+Jehovah Shammah. The <hi>Lord</hi> is there her <pb facs="tcp:33666:18"/>
+               <hi>Founder,
+Preſerver,</hi> and <hi>Governour.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Conſider, that they that have <hi>God</hi>
+and <hi>Chriſt</hi> with them, dwell continually at the Fountain Head of
+Conſolations, as <hi>David</hi> ſayes, <hi>Pſal.</hi> 23. <hi>I ſhall
+want nothing, The Lord is my ſhepheard, My Cup runs over. Surely
+Good<g ref="char:EOLhyphen"/>neſſe and Mercy ſhall follow me all the daies of my life.</hi> This
+<hi>Fountain</hi> keeps our <hi>Ciſternes</hi> full; our Channels <hi>run
+ſhallow</hi> ſometimes, but never are they <hi>dryed up; Hoſ.</hi> 14.5.
+<hi>I will be as the Dew unto Iſrael; He ſhall grow as the Lillie, and
+caſt forth his roots as Lebanon,</hi> they ſhall grow up as the Lillie,
+<hi>beautiful</hi> and <hi>fair,</hi> and as the Cedar, <hi>well rooted</hi>
+and <hi>eſtabliſhed;</hi> He that hath the <hi>Sun,</hi> hath
+<hi>Light,</hi> He that hath the <hi>Well,</hi> muſt needs have <hi>Water;
+Ille poſſidet omnia, qui poſſi<g ref="char:EOLhyphen"/>det poſſidentem omnia;</hi> He hath
+all things, who hath him from whom all things come.</p>
+            <p>
+               <hi>Thirdly,</hi> Conſider, that when all Comforts leave us,
+<hi>God</hi> will not; when Friends forſake, and Riches profit not, in the
+evil <hi>day, God is a preſent help in time of trouble,</hi> and loves to
+ſhew himſelf in <hi>Dubiis &amp; Arduis,</hi> in the greateſt
+difficulties, and on the <hi>Mount of ſtraits. Jeſus Chriſt</hi> ſayes
+<hi>truly</hi> to us, what <hi>Peter</hi> ſaid <hi>raſhly</hi> to him;
+<hi>Though all forſake thee, yet will not I.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <hi>Object.</hi> I have found
+<hi>God</hi> and <hi>Chriſt,</hi> gone from me, ſayes the <hi>Soul,</hi>
+when I have had need of him.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 
+               <hi>Anſwer,</hi> Firſt, That
+<hi>God</hi> and <hi>Chriſt</hi> may and do ſome<g ref="char:EOLhyphen"/>times hide their faces
+from their deareſt Friends.</p>
+            <p>
+               <hi>Secondly,</hi> Though <hi>God</hi> and <hi>Chriſt</hi> do
+ſometimes with<g ref="char:EOLhyphen"/>draw from us, yet every <hi>interruption</hi> of Communion, is
+not a <hi>ſeparation;</hi> The <hi>Sun</hi> doth not ceaſe <hi>to be,</hi>
+when it cea<g ref="char:EOLhyphen"/>ſeth <hi>to ſhine.</hi> Grace may ſuſpend <hi>its
+acting,</hi> but doth not looſe <hi>its being, God</hi> will not finally
+forſake his <hi>People.</hi>
+            </p>
+            <p>
+               <hi>Thirdly, God</hi> hath very many Gracious ends, why he
+ſometimes withdraws; And they are alway in mercy to his people, <hi>ſad
+providences, producing ſweet effects.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Direct. </seg>
+               </label> 
+               <hi>Directions and helps, how to
+get the preſence of God and Chriſt with us.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>Firſt,</hi> Repent and humble
+your ſelves, becauſe of all your ſins, that you have at any time rejected
+the Counſels of <hi>God,</hi> and refuſed <hi>Grace</hi> and
+<hi>Mercy,</hi> and neglected <hi>Op<g ref="char:EOLhyphen"/>portunities,</hi> of doing you
+<hi>Souls</hi> good, and drawing near to <pb facs="tcp:33666:18"/>
+               <hi>God; Repentance and
+Reſolution against Sin, come like John Baptiſt,</hi> to prepare a way, and
+a place, for <hi>God</hi> and <hi>Christ</hi> to come <hi>to,</hi> and make
+their abode <hi>in.</hi> Of the <hi>Hearts</hi> and <hi>Houſes</hi> of
+Impenitent Sinners, we may well ſay <hi>God is not there.</hi> The way to
+have <hi>God</hi> to <hi>turn in unto us;</hi> is to <hi>turn away from
+ſin,</hi> as <hi>Ephraim, Jer.</hi> 31.18,19,20. <hi>He</hi> bemoaned
+himſelf, and repented, and <hi>God</hi> came to him as to his dear Son, and
+to his pleaſant Child.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>Secondly,</hi> Believe in
+<hi>Jeſus Chriſt,</hi> and by faith get an inte<g ref="char:EOLhyphen"/>reſt in him; It is by
+faith only that we give entertainment to <hi>Jeſus Chriſt;</hi> It is by
+<hi>Jeſus Chriſt</hi> alone, that <hi>God</hi> and <hi>Man</hi> come
+together. <hi>No man hath ſeen the Father at any time, but the Son, and he to
+whom he doth reveal him, and he that hath the Son, hath the Father,</hi> Rom.
+5.1. <hi>Being juſtified by faith, we have peace with God.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>Thirdly,</hi> Own <hi>Jeſus
+Chriſt</hi> in all his <hi>Offices,</hi> as your <hi>King, Prieſt,</hi> and
+<hi>Prophet.</hi>
+            </p>
+            <p>
+               <hi>Firſt, As your King,</hi> Let him have the Soveraignty of
+your Souls, that he may rule over you. If <hi>Chriſt</hi> be your <hi>King,
+God</hi> will be your <hi>Father; God</hi> loves to come, where
+<hi>Chriſt</hi> hath his <hi>Throne.</hi>
+            </p>
+            <p>
+               <hi>Secondly, As your Prieſt,</hi> That his
+<hi>Righteouſneſſe</hi> may give you the advantage of <hi>Communion</hi>
+with <hi>God;</hi> without which we cannot <hi>come near to him,</hi> and he
+will not <hi>come near to us.</hi>
+            </p>
+            <p>
+               <hi>Thirdly, As your Prophet,</hi> That he may ſhew you the way;
+If his <hi>Spirit</hi> be your <hi>Guide,</hi> and his <hi>Word</hi> your
+<hi>Rule,</hi> you may be ſure his <hi>Promiſes</hi> ſhall be your
+<hi>Portion,</hi> even this <hi>Promiſe</hi> in the Text, <hi>They will come
+to you, and make their abode with you,</hi> even <hi>God</hi> and
+<hi>Chriſt.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Dir. </seg>4</label> 
+               <hi>Fourthly,</hi> Seek
+earneſtly after <hi>God</hi> and <hi>Chriſt,</hi> in the uſe of all
+appointed means, till you come to ſee, and enjoy their preſence with
+you.</p>
+            <p>Here ſhall be ſhewn theſe two particulars.</p>
+            <list>
+               <item>1. <hi>Where we may ſeek God and Chriſt.</hi>
+               </item>
+               <item> 2. <hi>How, or after what manner we muſt ſeek
+them.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Firſt,</hi> Where we may ſeek after <hi>God</hi> and
+<hi>Chriſt?</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> We may find them in the <hi>works of
+Creation;</hi> theſe will repreſent <hi>God</hi> and <hi>Chriſt</hi> unto
+us, the Power and Wiſ<g ref="char:EOLhyphen"/>dome of <hi>God</hi> and <hi>Chriſt,</hi> by whom the
+World was made; <pb facs="tcp:33666:19"/>
+               <hi>In omnire aspectabili quaedam extant
+veſtigia Dei;</hi> In all the <hi>viſible creatures,</hi> there be ſome
+prints of the <hi>inviſible God;</hi> ſo that he which lives altogether
+without <hi>God,</hi> muſt needs be
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, without excuſe, having
+<hi>God</hi> ſo near to him.</p>
+            <p>
+               <hi>Secondly,</hi> We may find them <hi>in the Word,</hi> 2
+<hi>Cor.</hi> 4.6. The glory of <hi>God</hi> ſhines there in the face of
+<hi>Jeſus Chriſt,</hi> and to them that are converſant in the Word,
+<hi>God</hi> hath pro<g ref="char:EOLhyphen"/>miſed to reveal himſelf, <hi>Iſa.</hi> 66.2. <hi>To
+this man will I look, even to him that is poor, and of a contrite spirit, and
+trembleth at my word.</hi> And the <hi>Apoſtle</hi> gives this direction,
+<hi>Rom.</hi> 10.6.7. <hi>Say not in thine heart, who ſhall aſcend into
+Heaven? that is to bring Chriſt down from above; or, who ſhall deſcend
+into the deep? that is to bring up Chriſt again from the dead. But what
+ſaith it? The word is night thee, even in the mouth, and in thy heart; that
+is, the word of faith which we preach.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> We may find them <hi>in Prayer, Jam.</hi> 4.8.
+<hi>Draw night to God, and he will draw nigh to you.</hi> If you will be
+ſtrangers to the duty of Prayer, <hi>to the Throne of Grace, God</hi> will be
+a ſtranger to you; he hath promiſed to draw nigh to them, that draw nigh to
+him; and ſo in <hi>Exod.</hi> 20.24. <hi>In all places where I record my
+Name, I will come unto thee, and I will bleſſe thee.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> We may find them <hi>in our Communion with the
+People of God. Where two or three are met together in my Name, there will I
+be</hi> (ſaies <hi>Chriſt</hi>) <hi>in the midſt of them.</hi> Therefore
+<hi>Jeſus Chriſt</hi> directs us to go up by the foot-ſteps of the Flock;
+and they enquire wiſely, <hi>Cant.</hi> 6.1. that ſay to the
+<hi>Church</hi> of <hi>Chriſt, Whither is thy beloved gone, that we may
+ſeek him with thee?</hi> and when the two <hi>Diſciples</hi> went to
+<hi>Em<g ref="char:EOLhyphen"/>maus,</hi> communing of <hi>Chriſt,</hi> He came and joyned himſelf
+with them.</p>
+            <p>
+               <hi>Secondly, How, or after what manner we muſt ſeek</hi> God
+<hi>and</hi> Chriſt.</p>
+            <p>Take theſe four following <hi>Directions.</hi>
+            </p>
+            <p>Firſt, <hi>Affect your ſelves with the worth and excellency of
+this preſence of</hi> God <hi>and</hi> Chriſt; carry a high eſteem of
+them in your hearts; think with your ſelves, how ſafely they are
+<hi>Immured;</hi> how <hi>Encaſtled</hi> and <hi>Provided</hi> for, who have
+<hi>God</hi> and <hi>Chriſt</hi> with them; as the <hi>Prophet</hi> ſaid to
+his ſervant, <pb facs="tcp:33666:19"/>
+               <hi>There is more for them, than can be againſt
+them,</hi> Iſai. 33.16. <hi>their place of defence, is the Munition of
+Rocks,</hi> &amp;c. O what ſweetneſs and ſatisfaction have they within,
+with whom <hi>God</hi> and <hi>Chriſt</hi> abides<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as the <hi>Spouſe</hi> doth expreſs
+it, <hi>Cant.</hi> 1.3. <hi>Becauſe of the ſavour of thy good Ointments,
+thy Name is as Ointment poured forth, therefore do the Virgins love thee.</hi>
+Thy Name of <hi>Mercy, Wiſdom,</hi> and <hi>Faithfulneſſe;</hi> how doth
+this refreſh their hearts, that have the preſence of <hi>God</hi> and
+<hi>Chriſt?</hi> O ſweetneſs and ſatisfaction beyond expreſſion!
+and then conclude, <hi>Sitantus; quarentibus
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> quantus
+poſſi<g ref="char:EOLhyphen"/>dentibus;</hi> If he be ſo good to them that <hi>ſeek him,</hi>
+how good is he to them that <hi>enjoy him.</hi>
+            </p>
+            <p>Secondly, <hi>Labour to affect your ſouls with the great want
+and need that you have of the preſence of</hi> God <hi>and</hi> Chriſt;
+while men think in their hearts, they can be well enough without <hi>God</hi>
+and <hi>Chriſt,</hi> they will never ſeek after them, but ſay, as in
+<hi>Jer.</hi> 2.31. <hi>We are Lords, we will come no more un<g ref="char:EOLhyphen"/>to thee,
+(i.)</hi> We have ſtrength enough of our own, we need no more of thy
+ſupport; and thus <hi>David</hi> brings in the wick<g ref="char:EOLhyphen"/>ed, priding themſelves,
+in <hi>Pſal.</hi> 10.4. <hi>The wicked through the pride of his
+countenance</hi> (as in the original, <hi>through the pride of his Noſe</hi>)
+<hi>will not ſeek after God. God</hi> is not in all his thoughts, when
+theſe proud <hi>Laodician Spirits</hi> will not <hi>ſock,</hi> the poor,
+hungry, deſolate ſoul, that ſees a need of <hi>God</hi> and <hi>Chriſt,
+find</hi> them.</p>
+            <p>Thirdly, <hi>Quicken your ſelves to much diligence in
+ſeek<g ref="char:EOLhyphen"/>ing:</hi> The <hi>Prophet</hi> complains, <hi>No man ſtirreth up
+himſelf to ſeek the Lord.</hi> It is a buſineſſe of <hi>the
+greateſt concernment,</hi> and moſt not be attended <hi>with a cold
+indifferency,</hi> but as one ſet on by a true love, and where that is,
+<hi>Non quie<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, ſed quer<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> Love will he
+reſtleſſ in the pur<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the
+thing, or perſon beloved. See with what heat men ſeek the world, with much
+more heat ſeek <hi>God</hi> and <hi>Chriſt.</hi> We muſt do as the woman
+that had loſt her <hi>Groat;</hi> ſhe lights a Candle, ſweeps the
+Houſe, ſeeks diligently; ſo we muſt ſet up the <hi>light of the
+Word,</hi> and to work with the <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of a ſerious repentance,</hi> and <hi>thorough
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ation,</hi> and <hi>diligently
+enquir<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> Thus <hi>David</hi>
+with a very vigilant eye, ſeeks him whom his ſoul loved, <hi>Pſal.</hi>
+130.4.5. <hi>I will not give reſt to mine eyes, nor ſlumber to my eye lids,
+till I have found out a pl<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> for
+God,</hi> &amp;c.</p>
+            <p>
+               <pb facs="tcp:33666:20"/>Laſtly, <hi>Reſolve with your ſelves never to
+give over, till you come to the perfect and full enjoyment of them;</hi> As
+<hi>Job</hi> ſaid, <hi>I <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> all
+the dayes of my appointed time.</hi> So do you ſeek all the days of your
+appointed time. If we would find <hi>God</hi> and <hi>Chriſt,</hi> we muſt
+ſeek all the dayes of our lives. They that will <hi>find</hi> what they
+<hi>ſeek,</hi> muſt <hi>ſeek</hi> till they <hi>find;</hi> As
+<hi>God</hi> in the <hi>Creation,</hi> did not reſt till he had made
+<hi>Man,</hi> ſo <hi>Man</hi> ſhould not reſt till he hath found
+<hi>God;</hi> And as in the <hi>Redemption, Jeſus Chriſt</hi> did never
+ceaſe ſeeking, till he had found all the <hi>loſt ſheep of the Houſe
+of Iſrael;</hi> ſo we ſhould never give o<g ref="char:EOLhyphen"/>ver, till we have made
+<hi>God</hi> and <hi>Chriſt</hi> our own.</p>
+            <p>This ſhould be the work of our lives, <hi>and upon this work I
+muſt leave you.</hi>
+            </p>
+            <q> 
+               <p> 
+                  <hi>For now I muſt tell you,</hi> That <hi>(perhaps)</hi> you
+may not ſee my face, or bear my voice any more in this place; yet not out of
+any peeviſh humour, or diſaffection to the preſent Authority of the
+Kingdom (I call <hi>God</hi> and <hi>Man</hi> to witneſs this day) it being
+my own <hi>Practice</hi> and <hi>Counſel</hi> to you all, <hi>To Fear GOD,
+and Honour the KING;</hi> but rather a real diſatisfaction in ſome
+particulars impoſed, to which, (not<g ref="char:EOLhyphen"/>withſtanding all endeavours to that
+purpoſe) my conſci<g ref="char:EOLhyphen"/>ence cannot yet be eſpouſed. <hi>Wherefore,</hi> I
+hope, in this, and in all my abode with you, I may ſay <hi>(without
+oſtentati<g ref="char:EOLhyphen"/>on)</hi> with the <hi>Apoſtle</hi> in the 2 <hi>Cor.</hi> 1.12.
+<hi>Our rejoycing is this, The teſtimony of a good Conſcience, that in
+ſimplicity, and godly ſincerity, we have had our converſation in the
+world, eſpecially to you words;</hi> And as he ſaid in <hi>Acts</hi>
+20.26.27. So, <hi>I take you to record this day, that I have endeavoured to be
+pure from the blood of all men; for I have not ſhunned to declare to you, the
+whole counſel of God,</hi> both by my <hi>Life</hi> and <hi>Doctrine;</hi>
+becauſe <hi>I</hi> knew this very well, that (as one ſayes,) <hi>S<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> loqu<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>is
+vita, non oratia;</hi> that the Preach<g ref="char:EOLhyphen"/>ers life, is the moſt lively
+preaching.</p> 
+               <p> I ſhall only adde this <hi>(my Friends)</hi> That though my
+lips be ſealed up, that I may not ſpeak <hi>from God</hi> to you, yet I
+ſhall not ceaſe to ſpeak to <hi>God</hi> for you, as ever I have done;
+And though I cannot have you in my <hi>eye,</hi> yet I ſhall lodge you in my
+<hi>heart;</hi> And asking nothing of you, but your <hi>Prayers,</hi> ſhall
+hope to meet you daily at the <hi>Throne</hi> of <hi>Grace,</hi> and that at
+laſt we may enjoy one another in <hi>Heaven.</hi>
+               </p> 
+               <p> 
+                  <pb facs="tcp:33666:20"/>And becauſe they ſay, <hi>The word of a</hi>
+Dying man <hi>wake the deepeſt impreſſion,</hi> before I am altogether
+<hi>Civilly dead,</hi> I ſhall give you one <hi>Exhortation</hi>
+more.</p>
+            </q>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Exh. </seg>2</label> 
+               <hi>Secondly,</hi> Let it be your
+endeavour to keep <hi>God</hi> and <hi>Chriſt</hi> with you, that they may
+make their abode with your hearts and houſes, <hi>that whatever you loſe,
+you may not be un<g ref="char:EOLhyphen"/>done.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> In the General.</p>
+            <p>Firſt, <hi>Take heed you do not ſlight or abuſe his
+Provi<g ref="char:EOLhyphen"/>dences.</hi>
+            </p>
+            <p>Secondly, <hi>Do not Deſpiſe or neglect his
+Ordinances.</hi>
+            </p>
+            <p>Thirdly, <hi>Be ſure you do not grieve his Spirit.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, <hi>Obſerve more
+particularly theſe ten directions,</hi> which I would leave with you.</p>
+            <p>That <hi>God</hi> and <hi>Chriſt</hi> may make their conſtant
+abode with you.</p>
+            <p>Firſt, <hi>Endeavour to pleaſe</hi> God <hi>and</hi> Chriſt,
+<hi>and to walk as the Gospel commands,</hi> In all well-pleaſing. <hi>And
+for this pur<g ref="char:EOLhyphen"/>poſe, Obſerve theſe three Rules.</hi>
+            </p>
+            <p>Firſt, <hi>Entertain</hi> God <hi>and</hi> Chriſt <hi>like
+themſelves.</hi> Now they are come to you, ſay as <hi>Solomon</hi> did of
+his <hi>Temple,</hi> which he had prepared for his <hi>God; The Heaven of
+Heavens cannot contain thee, much leſſe, this poor Tent;</hi> ſo, with
+the moſt humble frame of ſpirit, <hi>admire his greatneſſe, and
+infi<g ref="char:EOLhyphen"/>nite condeſcention, for he is the King of Glory;</hi> as in
+<hi>Pſal.</hi> 24. And ſo give him ſuitable entertainment, for <hi>he
+will dwell with the humble and contrite ſpirit.</hi> If <hi>Elizabeth</hi>
+wonder'd at the viſit which <hi>Mary</hi> gave her, with a <hi>whence is it
+that the Mo<g ref="char:EOLhyphen"/>ther of my Lord is come unto me?</hi> then admire that the
+<hi>Lord</hi> himſelf ſhould come, not only <hi>to viſit your
+hearts,</hi> but <hi>to make ſuch a gracious abode with you;</hi> And as the
+<hi>Centurion</hi> ſaid to <hi>Chriſt</hi> in the <hi>Goſpel, I am not
+worthy that thou ſhouldst come under my Roof.</hi> So acknowledge your
+unworthineſſe of ſo rich and unparalleld a grace, that <hi>God</hi> and
+<hi>Chriſt</hi> ſhould come in unto you, to abide with you!</p>
+            <p>Secondly, <hi>Wait upon</hi> God <hi>and</hi> Chriſt <hi>with
+all readineſſe of mind, to obſerve every intimation of the Will of</hi>
+God; <hi>to you.</hi> Stand alwayes ready, as Servants wait upon the hand of
+their Maſter, ſaying in your hearts, <hi>Lord, what wilt thou have me to
+do? or, what wilt thou have me to ſuffer?</hi> It is the frame <pb facs="tcp:33666:21"/>and poſture which <hi>Chriſt</hi> commends to his <hi>Diſciples,
+Luke</hi> 12.35. <hi>Let your loyns be girded about, and your lights burn<g ref="char:EOLhyphen"/>ing,
+to do his will, as it is done in Heaven.</hi>
+            </p>
+            <p>Thirdly, <hi>Take pleaſure and delight in the company and
+ſocie<g ref="char:EOLhyphen"/>ty of</hi> God <hi>and</hi> Chriſt, <hi>above all the pleaſures in
+the world.</hi> Do nothing, without firſt calling <hi>God</hi> and
+<hi>Chriſt</hi> into the action. <hi>Remember this in Theſe four caſes
+especially.</hi>
+            </p>
+            <p>Firſt, <hi>Pray</hi> God <hi>and</hi> Chriſt <hi>along with
+you into all your ſpiri<g ref="char:EOLhyphen"/>tual duties,</hi> that you may be ſure to perform
+them all accord<g ref="char:EOLhyphen"/>ing to the mind of <hi>God.</hi> None knows better what will
+pleaſe <hi>God,</hi> than himſelf; don't enquire ſo much <hi>what others
+ſay,</hi> but what <hi>God appoints;</hi> 'tis not what this or that man
+ſayes, how we muſt ſerve <hi>God,</hi> but what <hi>God</hi> ſayes
+himſelf; as <hi>Aguſtine</hi> ſaid to the <hi>Manichee,</hi> in another
+caſe, <hi>Nec egote, nec tu me, ſed ambo audiamus Apoſtolum;</hi> So hear
+what <hi>God</hi> and <hi>Chriſt</hi> ſay to us, <hi>as to the performance
+of all our duties:</hi> If we will entertain <hi>God</hi> and
+<hi>Chriſt,</hi> and have their compa<g ref="char:EOLhyphen"/>ny, we muſt ſet before them ſuch
+ſavoury meat as they like, leſt we be like them (<hi>Mat</hi> 15.9.) of
+whom <hi>Chriſt</hi> ſayes, <hi>In vain do they worſhip me,</hi> &amp;c.
+and our ſervice be like theirs, of which the <hi>Lord</hi> ſaid, <hi>Who
+hath required theſe things at your hands?</hi> O what was that great evil the
+people were guilty of, for which there comes that heavy judgement,
+<hi>Pſal.</hi> 78.60. <hi>He forſook the Tabernacle of</hi> Shiloh, <hi>the
+Tent which he placed among them.</hi> Sure it was ſome great <hi>guilt,</hi>
+in the for<g ref="char:EOLhyphen"/>mer verſes we find it to be their <hi>Hypocriſie,
+Apoſtacy,</hi> and <hi>Idolatry,</hi> any taint of this kind, will make the
+jealous <hi>God</hi> forſake our ſolemn meetings.</p>
+            <p>
+               <hi>Secondly, Pray God and Chriſt into all your Civil
+affairs</hi> The <hi>Greeks</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+with <hi>God</hi> in their entrance upon every work, was a commendable
+practiſe. It is reported of <hi>Pub<g ref="char:EOLhyphen"/>lius Scipio</hi> the <hi>Roman,</hi> that
+he would alway go firſt to the <hi>Capitol,</hi> and then to the
+<hi>Senate;</hi> So we ſhould begin our <hi>Civil Imployments</hi> with
+<hi>Spiritual duties;</hi> And do as <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> Servant, when he was to
+take a wife for his Maſters Son, he took <hi>God</hi> along with him; and
+thus <hi>to abide with God,</hi> is to have <hi>God to abide with us.</hi>
+Therefore ſayes the <hi>Apoſtle,</hi> 1 <hi>Cor.</hi> 7.20 <hi>Let every
+man abide in the ſame calling, wherein he was called,</hi> and in the 24
+verſe, <hi>Brethren let eve<g ref="char:EOLhyphen"/>ry man wherein he is called, therein abide with
+God,</hi> And <hi>God</hi> will abide with him.</p>
+            <p>
+               <pb facs="tcp:33666:21"/>
+               <hi>Thirdly, Pray</hi> God <hi>and</hi> Chriſt
+<hi>to your Tables at your eating and drinking, For man doth not live by bread
+onely.</hi> If theſe be <hi>Gueſts</hi> at your <hi>Tables,</hi> you muſt
+needs have <hi>Cheer enough;</hi> there's more <hi>ſweetneſſe</hi> in a
+<hi>morſel with them, then in all dain<g ref="char:EOLhyphen"/>ties without them;</hi> And then you
+may be ſure alſo, your Ta<g ref="char:EOLhyphen"/>bles ſhall not become a Snare unto you.
+<hi>Theophraſtus</hi> re<g ref="char:EOLhyphen"/>ports of the <hi>Heathens,</hi> that they did
+firſt <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and then
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they did firſt
+<hi>Sacrifice</hi> and then <hi>Kill,</hi> lay on their meat, entertain and
+eat. And it is the <hi>Apostles</hi> rule, ſeeing all things come of
+<hi>God</hi> through <hi>Christ,</hi> That <hi>God</hi> and <hi>Chriſt</hi>
+ſhould not be <hi>Unbidden Gueſts;</hi> but as in 1 <hi>Cor.</hi> 10.31.
+<hi>Whether you eat or drink, or whatſoever ye do, do all to the Glory of
+God.</hi>
+            </p>
+            <p>
+               <hi>Fourthly, Pray.</hi> God <hi>and</hi> Chriſt <hi>along with
+you in Morning when you riſe, and at Evening when you lie down;</hi> viſit
+him Morning by Morning and Evening by Evening; this is the way to have a
+<hi>Proſperous day,</hi> and a <hi>Safe night; David</hi> took this courſe,
+<hi>Pſal</hi> 4.8. <hi>I will both lay me down, and take my reſt, for thou
+Lord, only makeſt me dwell in ſafety;</hi> and this gave <hi>Jacob</hi>
+ſuch a pleaſant Dream, <hi>Gen.</hi> 28. that having <hi>God</hi> with him,
+he was an night within view of <hi>Heaven.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Dir. </seg>2</label> 
+               <hi>Secondly, Love</hi> God
+<hi>and</hi> Chriſt <hi>above all, and then</hi> God <hi>and</hi> Chriſt
+<hi>will not depart from you;</hi> For <hi>He ſhews mercy to Thouſands of
+them that love him,</hi> and hath made over <hi>Him<g ref="char:EOLhyphen"/>ſelf,</hi> and
+<hi>Heaven,</hi> and <hi>All,</hi> to them that <hi>love</hi> him. It is
+re<g ref="char:EOLhyphen"/>ported of <hi>Ignatius,</hi> that his Love was ſuch to <hi>God</hi> and
+<hi>Chriſt,</hi> that he had the name of <hi>Chriſt, Cordi ej<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s inſc<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iptum;</hi> Graven upon his heart. It is ſuch a
+<hi>Heart-love</hi> that <hi>He</hi> re<g ref="char:EOLhyphen"/>quires; for <hi>He is a jealous
+God,</hi> and will have all our Love.</p>
+            <p>
+               <hi>If we Love any thing better;</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> It will ſteal away our <hi>Hearts</hi> from
+<hi>God;</hi> And</p>
+            <p>
+               <hi>Secondly,</hi> It will take off the <hi>Heart</hi> of
+<hi>God</hi> from us; ſo that <hi>God</hi> and <hi>Chriſt</hi> will ſet
+themſelves againſt us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Dir. </seg>3</label> 
+               <hi>Thirdly,</hi> If we would have
+<hi>God</hi> and <hi>Chriſt</hi> to make their conſtant abode with us,
+<hi>Delight in the Society and Fellow<g ref="char:EOLhyphen"/>ſhip of the People of</hi> God,
+<hi>with whom they dwell;</hi> Never be aſhamed to converſe with them, whom
+<hi>God</hi> and <hi>Chriſt</hi> do own for theirs. The <hi>Apoſtles</hi>
+argument why we ſhould en<g ref="char:EOLhyphen"/>tertain <hi>Strangers,</hi> in <hi>Heb.</hi> 13.2.
+<hi>(becauſe thereby ſome have entertained Angels unawares) is but mean and
+inconſiderable to <pb facs="tcp:33666:22"/>this Reaſon,</hi> why we ſhould entertain
+and own the <hi>Saints of God;</hi> for thereby we are ſure to <hi>entertain
+Chriſt;</hi> as in <hi>Mat.</hi> 25.40. For this cauſe the
+<hi>Gibeonites</hi> made a <hi>League</hi> with <hi>Iſrael; For we have heard
+that God is with you.</hi> And there is a promiſe in <hi>Zech.</hi> 8.23.
+That <hi>Ten men out of all Languages ſhall take hold of the ſkirt of a
+Jew, ſaying, we will go with you, for we have heard that God is with
+you,</hi> Mal. 3.16. <hi>They that feared the Lord, ſpake often one to
+another, and the Lord hearkned, and heard it,</hi> &amp;c. He was with them,
+and indeed, <hi>God dwells in the Tabernacles of the Righteous.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Dir. </seg>4</label> 
+               <hi>Fourthly, If we would have the
+conſtant abode of</hi> God <hi>and</hi> Chriſt <hi>with us, Let us keep our
+ſelves clean from Sin, our Hearts pure, Conſciences undefiled,</hi> and as
+the <hi>Apoſtle</hi> ſayes, <hi>voyd of Offence towards God, and towards
+Men,</hi> very <hi>careful</hi> not to <hi>Sin</hi> againſt <hi>God;</hi> and
+very <hi>circumſpect</hi> not to <hi>Sin</hi> a<g ref="char:EOLhyphen"/>gainſt <hi>Man;</hi> that
+this may be our Comfort, that the world muſt needs ſay of us, as they did
+of <hi>Daniel,</hi> that <hi>they could find nothing againſt him; ſave in
+the Law of his God,</hi> as in <hi>Daniel</hi> 6.5. Whatever others
+<hi>doe,</hi> beware of <hi>Sin.</hi> Say as <hi>Joſhuah, I and my Houſe
+will ſerve the Lord.</hi> Watch againſt <hi>Sin; Chuſe any</hi>
+Suffering, <hi>rather then the leaſt</hi> Sin.</p>
+            <p>
+               <hi>Conſider in that choice two particulars.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Conſider <hi>in all your ſufferings, God
+will be with you, but in any of your Sins, he will not abode with you;</hi> as
+in the example of <hi>Iſrael, Exod.</hi> 32.23. <hi>When the</hi> Calf
+<hi>was got into the</hi> Camp, God <hi>forſakes the</hi> Hoaſt <hi>of</hi>
+Iſrael; <hi>When Saul</hi> for<g ref="char:EOLhyphen"/>ſook the <hi>Lord,</hi> the <hi>Spirit</hi>
+of the <hi>Lord</hi> forſook <hi>him.</hi> That was an excellent Saying of
+<hi>Azariah</hi> the Son of <hi>Obed,</hi> in the 2 <hi>Chron.</hi> 15.2. and
+Oh that all <hi>England</hi> could hear it! <hi>Hear thou me Aſa, and all
+Judah, The Lord is with you, while you be with him; If you ſeek him, he will
+be found of you; but if ye forſake him, he will forſake you.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Conſider, <hi>'Tis an Act of high
+preſumption, re<g ref="char:EOLhyphen"/>flecting much upon the Purity and Holyneſſe of God, for
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to imagine that</hi> God
+<hi>will own, and proſper them with his Pre<g ref="char:EOLhyphen"/>ſence, while they go on to do
+wickedly, in their</hi> Whoredomes, Drunkeneſſe, Blaſphemy, <hi>and all
+manner of</hi> Prophaneſſe; which <hi>God</hi> can no more <hi>own,</hi>
+then <hi>diſown</hi> himſelf. So they fooliſhly promiſed themſelves
+<hi>Peace, Deut.</hi> 29.19. <hi>though they walk in the imagination of their
+Hearts, and add Drunken<g ref="char:EOLhyphen"/>neſſe <pb facs="tcp:33666:22"/>to Thirſt;</hi> But the
+<hi>Lord</hi> will not <hi>ſpare,</hi> but his <hi>Anger</hi> and
+<hi>Jealouſie</hi> ſhall <hi>ſm<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ak</hi> againſt <hi>them,</hi> till he hath brought them down from
+their high Mount of a <hi>Sinful</hi> and <hi>Carnal Confi<g ref="char:EOLhyphen"/>dence.</hi>
+Therefore the <hi>Prophet</hi> reproves that wicked people, <hi>Mich.</hi>
+3.11. where the <hi>Judges,</hi> the <hi>Prieſts,</hi> and the
+<hi>Pro<g ref="char:EOLhyphen"/>phets</hi> were corrupted. Yet they ſay, <hi>Is not the Lord among
+us, none evil can come upon us, Therefore ſhall Zion be plowed as a
+Field,</hi> &amp;c. as <hi>Abner</hi> ſaid to <hi>Joab, This will prove an
+evil thing, and a bitter in the latter end;</hi> as <hi>Galen</hi> ſayes of
+Meats, <hi>Quae dulcia ſunt facile in bilem &amp; amaritudinem
+convertun<g ref="char:EOLhyphen"/>tur;</hi> Sweet meats generate Choller and Corrupt matter; So
+<hi>Sin</hi> that is a <hi>ſweet morſel</hi> now, will be <hi>Shame, Death,
+and Hell</hi> at laſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Dir. </seg>5</label> 
+               <hi>Fifthly, With an humble
+acknowledgment of former Bar<g ref="char:EOLhyphen"/>renneſſe, under Gods gracious preſence with
+you, reſolve and en<g ref="char:EOLhyphen"/>deavour to be more fruitful. God</hi> never left his
+<hi>Vineyard,</hi> and pull'd up the Hedge, and commanded the Rain not to fall
+upon it, in <hi>Iſai.</hi> 5. <hi>till it became Barren, or did bear cor<g ref="char:EOLhyphen"/>rupt
+fruit.</hi> The exil'd Confeſſors in <hi>Queen Maries</hi> dayes,
+confeſſed that (as <hi>Urſin</hi> ſayes in the Preface to his
+<hi>Cate<g ref="char:EOLhyphen"/>chiſme</hi>) the cauſe of their preſent ſuffering, was their
+for<g ref="char:EOLhyphen"/>mer <hi>Barrenneſſe</hi> and <hi>Unprofitableneſſe</hi> under the
+<hi>Goſpel;</hi> and a ſad example of this is <hi>Jeruſalem,</hi> over
+whom <hi>Chriſt</hi> laments. <hi>O Jeruſalem, Jeruſalem, thou,</hi>
+&amp;c. <hi>if thou hadſt known in this thy day,</hi> &amp;c. but now they
+<hi>are hid from thine eyes;</hi> and when once a people grow up to this
+heighth to reject the <hi>Goſpel,</hi> then expect ſome fearful
+<hi>Judgement.</hi> Read the laſt Chap<g ref="char:EOLhyphen"/>ter of <hi>Chronicles,</hi> the Second
+Book, and at the 16 <hi>verſe,</hi> and then you will ſee, when the wrath
+of <hi>God</hi> is like to break out upon a People without a remedy.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Dir. </seg>6</label> 
+               <hi>Sixthly,</hi> If you would
+have the continual abode of <hi>God</hi> and <hi>Chriſt</hi> with you;
+<hi>Let God have all your Thoughts,</hi> let <hi>Him be your meditation;</hi>
+this is the way to have the beſt <hi>Company</hi> when you be alone;
+<hi>David</hi> would meditate of him day and night, and profeſſed <hi>the
+meditation of him, ſhould be ſweet to him.</hi>
+            </p>
+            <p>
+               <hi>Here conſider two particulars.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Conſider, <hi>that no Place, State, or
+Condition, can hin<g ref="char:EOLhyphen"/>der the Soul of this way of ſecret Communion with God and
+Christ;</hi> This priviledge could not be denyed to a <hi>benighted 
+<pb facs="tcp:33666:23" rendition="simple:additions"/>Jacob,</hi> to an <hi>Impriſoned Jeremiah,</hi> to an
+<hi>Exil<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> John <hi>in
+Pat<g ref="char:EOLhyphen"/>mos;</hi> by this (ſaies <hi>Jerom</hi>) <hi>Solitudo fit
+Paradiſas,</hi> a man may turn a <hi>Wilderneſs</hi> into a
+<hi>Paradiſe;</hi> and therefore we read in <hi>Cant.</hi> 11.12. how the
+<hi>Spouſe</hi> invites <hi>Chriſt</hi> to go with her, as <hi>Iſaac</hi>
+did into the <hi>Fields</hi> to meditate, <hi>Come let's go into the Fields,
+and lodge in the Villages.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Conſider, <hi>In theſe ſecret ſilent
+viſits of the Soul,</hi> God <hi>and</hi> Chriſt <hi>do take abundance of
+delight;</hi> Our <hi>Night thoughts,</hi> our <hi>Field thoughts,</hi> our
+<hi>Cloſet thoughts.</hi> are very <hi>welcom</hi> to <hi>Them;</hi> yea,
+when we can do no more but think of <hi>God,</hi> our very <hi>thoughts</hi>
+ſhall be an <hi>accepted ſervice,</hi> Cant. 2.13. <hi>He loveth the
+Fig-tree, that putteth forth her green Figs.</hi> The ripe fruit is in the
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d; ſo <hi>holy endeavours</hi>
+in <hi>pure breath<g ref="char:EOLhyphen"/>ings</hi> and <hi>deſires, God accepts,</hi> when our
+<hi>Infirmity,</hi> or the <hi>Iniquity</hi> of the <hi>Times</hi> may be
+ſuch, that we can do no more.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Direct. </seg>7</label> 
+               <hi>Seventhly,</hi> If we will
+have <hi>God</hi> and <hi>Chriſt</hi> to make their conſtant abode with us,
+<hi>then let us walk humbly with God. He that beholds the proud afar off, will
+be nigh to them that humble their ſouls under his mighty hand,</hi> Iſa.
+57.15. <hi>Thus ſaies the high and lofty one, that inhabits Eternity, whoſe
+Name is Holy; I dwell in the High and Holy place, with him alſo, that is of
+an humble and contrite ſpirit.</hi>
+            </p>
+            <p>
+               <hi>God</hi> hath two <hi>Heavens</hi> in which he dwells.</p>
+            <p>
+               <hi>Firſt, His Glory</hi> dwells in the high and holy place, in
+<hi>Heaven</hi> above.</p>
+            <p>
+               <hi>Secondly, His Grace</hi> dwells in the humble and lowly
+ſpirit. <hi>Here will I dwell, ſaies God.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Dir. </seg>8</label> 
+               <hi>Eighthly,</hi> If you would
+have the conſtant abode of <hi>God</hi> and <hi>Chriſt</hi> with you,
+<hi>be ſure to look to your hearts, that you walk in your uprightneſs; be
+true to the Word of God, be true to your profeſſion.</hi> There is not in
+the world a more lively repreſentation and Image of <hi>God,</hi> than the
+<hi>heart</hi> of the <hi>up<g ref="char:EOLhyphen"/>right;</hi> therefore <hi>God</hi> loves ſo
+much, when he hath drawn his likeneſs upon them to walk with them; therefore
+<hi>Da<g ref="char:EOLhyphen"/>vid</hi> reſolves, <hi>Pſal</hi> 101.2. <hi>I will walk in the
+midſt of mine houſe with a perfect heart; O when wilt thou come unto
+me?</hi> This was the comfort of the <hi>Apoſtle,</hi> that in
+<hi>ſimplicity,</hi> and <hi>godly ſincerity,</hi> he had his
+<hi>converſation</hi> in the world; <hi>God</hi> will be with
+<hi>ſuch,</hi> and <hi>ſuch</hi> ſhall be with <hi>God, Pſal.</hi>
+37.37. <hi>Mark the perfect man, behold the upright, the end of that man 
+<pb facs="tcp:33666:23"/>is peace;</hi> And thus <hi>God</hi> appointed <hi>Abraham</hi> to
+walk, that he might be with him <hi>a God in Covenant, Gen</hi> 17. <hi>Walk
+before me, be thou perfect;</hi> and gives him this encouragement, <hi>I am God
+All-ſufficient: Gods All ſufficiency</hi> being ſufficient to keep the
+<hi>Soul</hi> upright, being rightly improved.</p>
+            <p>There be <hi>two things</hi> which uſually <hi>Bias</hi> the
+<hi>Soul</hi> away from <hi>God,</hi> and makes it warp from its holy
+principles, 1. <hi>The Frowns.</hi> 2. <hi>The Flatteries</hi> of the
+world.</p>
+            <p>Againſt both which, there is a ſufficient remedy in the
+<hi>All-ſufficient God.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> That which often perverts the Soul from the
+truth, is the <hi>fear of troubles and wants;</hi> If I keep my integrity,
+(ſaies the Soul) I ſhall be <hi>Undone,</hi> I ſhall <hi>Loſe my
+eſtate, Embroyl</hi> my ſelf in many <hi>Troubles;</hi> perhaps a
+<hi>Priſon, Exile,</hi> or <hi>Death</hi> comes next. But what force is there
+in this Tentation? If we hear on the other hand, <hi>God</hi> ſaying, if thou
+wilt be <hi>up<g ref="char:EOLhyphen"/>right,</hi> fear no troubles, no wants, <hi>I am a God
+All-ſufficient,</hi> as in <hi>Job</hi> 22.25. to the end of the Chapter,
+<hi>The Almighty ſhall be thy defence</hi> (then fear no force) <hi>thou
+ſhalt have plen<g ref="char:EOLhyphen"/>ty of Silver, thou ſhalt gather Gold as duſt, and the
+Gold of Ophir, as the ſtones of the Brooks,</hi> Then fear no wants.</p>
+            <p>
+               <hi>Secondly,</hi> There is another thing in the world that hath a
+very great influence upon the ſpirit of a man, to pervert him, and turn him
+from his integrity; and that is <hi>The hopes of pre<g ref="char:EOLhyphen"/>ferment, and greatneſs
+of the world;</hi> But this is but a poor bait, if we look upon the
+<hi>All-ſufficiency</hi> of <hi>God:</hi> Doth the <hi>World</hi> promiſe
+thee <hi>Riches? God</hi> will out-bid the world, and gives <hi>Eternal
+Riches.</hi> Will the <hi>World</hi> give <hi>Pleaſures? God</hi> will give
+<hi>better; with him is fulneſs of joy, and pleaſures for evermore.</hi>
+Will the <hi>World</hi> give <hi>Gold? God</hi> will give <hi>Dia<g ref="char:EOLhyphen"/>monds.</hi>
+Will the <hi>World</hi> give all its <hi>Glory? God</hi> will give thee the
+<hi>Glory</hi> of a <hi>better World,</hi> rather than that ſhall be a
+ſnare unto thee.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Dir. </seg>9</label> 
+               <hi>Ninthly, Pray much, pray
+continually; God</hi> will be in the <hi>hearts</hi> and <hi>houſes</hi> of
+his <hi>Praying people,</hi> when he hath a <hi>Curſe</hi> in ſtore for
+<hi>Prayerleſs Families,</hi> in <hi>Jerem.</hi> 10. the laſt
+<hi>verſe.</hi>
+            </p>
+            <p>Firſt, <hi>That God will abide with</hi> you, <hi>and the</hi>
+Kingdom <hi>in his</hi> Goſpel, <hi>and pure</hi> Ordinances; that you may
+dwell in <hi>Beth-el,</hi> and not in <hi>Berl-aven,</hi> a houſe of vanity
+and grief. Pray that <hi>God</hi> will not remove his <hi>Candleſtick</hi>
+from <hi>you,</hi> nor <pb facs="tcp:33666:24"/>utterly extinguiſh the light of the
+<hi>Kingdom.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Pray, and I ſhall pray with you, <hi>that God
+will give you a faithful Paſtour after his own heart,</hi> not according to
+your <hi>hearts,</hi> that he may teach you by his <hi>Doctrine</hi> and his
+<hi>Life</hi> too; A faithful Teacher, to go <hi>in,</hi> and <hi>out</hi>
+before you; to ſhew you the <hi>Word</hi> of the <hi>Lord;</hi> One that may
+be among you, as it was ſaid of <hi>Athanaſius,</hi> that he was <hi>Magnes
+&amp; Adamas.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Magnes, As a Load-ſtone,</hi> to draw your Souls
+with a <hi>gentle hand,</hi> and <hi>melting heart,</hi> from your ſins
+<hi>Heaven-ward.</hi>
+               </item>
+               <item> 2. <hi>Adamas, As an Adamant,</hi> of an invincible courage
+and zeal againſt all ſin and prophaneſs; one that will not ſpare
+<hi>Sin.</hi> That he may ſave your <hi>Souls.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Pray</hi> that <hi>God</hi> would give you a <hi>Star,</hi> a
+<hi>Star</hi> out of his <hi>right hand,</hi> not a <hi>Churliſh Orion,</hi>
+that brings a Cold, Barren, and Cloudy <hi>Winter.</hi> but a
+<hi>Benevolent</hi> and <hi>Friendly Pleiades,</hi> that there may be many Sons
+brought into <hi>God,</hi> and your <hi>Souls</hi> may find a continual
+<hi>Spring,</hi> and that <hi>you</hi> may be as <hi>Trees</hi> of
+<hi>Gods</hi> own planting, <hi>and may flouriſh in the Courts of the houſe
+of our God, and may bring forth more fruit in old age.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Dir. </seg>10</label> 
+               <hi>Tenthly,</hi> and Laſtly,
+If you would have the conſtant abode of <hi>God</hi> and <hi>Chriſt</hi>
+with you, <hi>Conform, Conform univerſally, and fully to the Goſpel of
+Chriſt, Conſent and Aſſent Unfeignedly, to all the Truths and Doctrines
+thereof,</hi> that you may walk wor<g ref="char:EOLhyphen"/>thy of <hi>God,</hi> and all that
+<hi>Grace</hi> which hath been revealed to you: for <hi>Chriſt</hi> hath
+ſaid, <hi>If a man keep his Word, the Father will love him,</hi> and both
+Father and Son, <hi>will come to him, and make their abode with him.</hi>
+Wherefore I ſhall conclude this <hi>Exhortation</hi> with that of the
+<hi>Apostle,</hi> in <hi>Philippians</hi> 1.2.7. <hi>Only Let your
+converſation be ſuch as becometh the Goſpel of Chriſt, that whether I
+come and ſee you, or elſe be abſent from you, I may hear of your affairs,
+that ye ſtand faſt in one ſpirit, with one mind, ſtriving together for
+the faith of the Gospel.</hi>
+            </p>
+            <p>And ſo ſhut up all with that in <hi>Acts</hi> 20.32.</p>
+            <p>
+               <hi>And now Brethren, I commend you to God, and to the Word of his
+Grace, which is able to build you up, and to give you an Inheritance among all
+them which are Sanctified.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33666:24"/>
+         </div>
+      </body>
+   </text>
+</TEI>
